@@ -1,0 +1,6 @@
+*.pdf
+tools/
+HANDOFF.md
+HUKA_PROGRESS.md
+.DS_Store
+Thumbs.db
