@@ -272,10 +272,13 @@
       html += "</ul>";
     }
 
-    html += "<div class='quiz-actions' style='justify-content:center;margin-top:16px'>" +
+    html += "<div class='quiz-actions' style='justify-content:center;flex-wrap:wrap;margin-top:16px'>" +
+      "  <button class='primary outline' id='export-btn'>ייצוא סטטיסטיקה</button>" +
+      "  <button class='primary outline' id='import-btn'>ייבוא סטטיסטיקה</button>" +
       "  <button class='primary outline' id='reset-btn'>אפס סטטיסטיקה</button>" +
       "  <button class='primary' id='stats-home-btn'>חזרה לתפריט</button>" +
-      "</div>";
+      "</div>" +
+      "<input type='file' id='import-file' accept='application/json,.json' hidden>";
 
     card.innerHTML = html;
     $("#reset-btn").addEventListener("click", () => {
@@ -284,7 +287,49 @@
         renderStats();
       }
     });
+    $("#export-btn").addEventListener("click", onExportStats);
+    $("#import-btn").addEventListener("click", () => $("#import-file").click());
+    $("#import-file").addEventListener("change", onImportStatsFile);
     $("#stats-home-btn").addEventListener("click", goHome);
+  }
+
+  function onExportStats() {
+    const payload = Store.exportState();
+    const blob = new Blob([JSON.stringify(payload, null, 2)], { type: "application/json" });
+    const url = URL.createObjectURL(blob);
+    const a = document.createElement("a");
+    a.href = url;
+    a.download = "cpl-quiz-stats-" + todayStamp() + ".json";
+    document.body.appendChild(a);
+    a.click();
+    document.body.removeChild(a);
+    setTimeout(() => URL.revokeObjectURL(url), 1000);
+  }
+
+  function onImportStatsFile(e) {
+    const file = e.target.files && e.target.files[0];
+    e.target.value = ""; // allow re-importing the same file later
+    if (!file) return;
+    if (!confirm("ייבוא יחליף את הסטטיסטיקה הנוכחית. להמשיך?")) return;
+    const reader = new FileReader();
+    reader.onload = () => {
+      try {
+        const parsed = JSON.parse(reader.result);
+        Store.importState(parsed);
+        alert("ייבוא הושלם.");
+        renderStats();
+      } catch (err) {
+        alert("ייבוא נכשל: " + (err && err.message ? err.message : err));
+      }
+    };
+    reader.onerror = () => alert("שגיאה בקריאת הקובץ.");
+    reader.readAsText(file);
+  }
+
+  function todayStamp() {
+    const d = new Date();
+    const pad = n => String(n).padStart(2, "0");
+    return d.getFullYear() + "-" + pad(d.getMonth() + 1) + "-" + pad(d.getDate());
   }
 
   function goHome() { renderHome(); }

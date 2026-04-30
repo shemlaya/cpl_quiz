@@ -103,6 +103,26 @@
     reset() {
       try { localStorage.removeItem(NS); } catch (e) {}
     },
+    exportState() {
+      return {
+        version: NS,
+        exportedAt: new Date().toISOString(),
+        data: load(),
+      };
+    },
+    importState(payload) {
+      if (!payload || typeof payload !== "object") {
+        throw new Error("קובץ לא תקין");
+      }
+      if (payload.version !== NS) {
+        throw new Error("גרסת קובץ לא תואמת");
+      }
+      const data = payload.data;
+      if (!data || typeof data !== "object") {
+        throw new Error("מבנה נתונים לא תקין");
+      }
+      save(data);
+    },
   };
 
   window.Store = Store;
