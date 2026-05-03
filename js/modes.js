@@ -17,6 +17,12 @@
     return a;
   }
 
+  // Return a shallow clone of the question with its options shuffled. Cloning
+  // avoids mutating the shared bank, so the next run reshuffles fresh.
+  function withShuffledOptions(q) {
+    return Object.assign({}, q, { options: shuffle(q.options) });
+  }
+
   // Common runner skeleton — the modes differ only in how they react to submit.
   // `onSubmit(question, wasCorrect)` is the per-mode hook (record answer or
   // defer scoring), and `onDone(result)` fires once the queue empties.
@@ -68,7 +74,7 @@
   function makePracticeRunner(questions) {
     return makeRunner({
       mode: "practice",
-      queue: shuffle(questions),
+      queue: shuffle(questions).map(withShuffledOptions),
       // Practice records answers as they happen — feedback is immediate.
       onSubmit: (q, wasCorrect) => Store.recordAnswer(q, wasCorrect),
       finalize: ({ total, correct, log }) => ({ mode: "practice", total, correct, log }),
@@ -77,7 +83,7 @@
 
   function makeExamRunner(questions, size = EXAM_DEFAULT_SIZE) {
     const pool = shuffle(questions);
-    const queue = pool.slice(0, Math.min(size, pool.length));
+    const queue = pool.slice(0, Math.min(size, pool.length)).map(withShuffledOptions);
     return makeRunner({
       mode: "exam",
       queue,
@@ -98,7 +104,7 @@
 
   function makeSrsRunner(questions, size = SRS_DEFAULT_SIZE) {
     const ranked = Store.rankForSrs(questions);
-    const queue = ranked.slice(0, Math.min(size, ranked.length));
+    const queue = ranked.slice(0, Math.min(size, ranked.length)).map(withShuffledOptions);
     return makeRunner({
       mode: "srs",
       queue,
