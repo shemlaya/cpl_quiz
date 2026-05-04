@@ -1,5 +1,5 @@
 *.pdf
-tools/
+tools/**/*.png
 HANDOFF.md
 HUKA_PROGRESS.md
 .DS_Store
