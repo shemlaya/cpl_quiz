@@ -1,6 +1,5 @@
 *.pdf
 tools/**/*.png
-HANDOFF.md
 HUKA_PROGRESS.md
 .DS_Store
 Thumbs.db

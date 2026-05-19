@@ -21,6 +21,7 @@ PDFS = [
     ("_pdf_19-35.pdf", "a"),
     ("_pdf_36-57.pdf", "b"),
     ("_pdf_huka.pdf", "c"),
+    ("_pdf_c172_open.pdf", "d"),
 ]
 
 DPI = 300

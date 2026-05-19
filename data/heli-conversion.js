@@ -208,7 +208,7 @@ window.TEST_BANKS["heli-conversion"] = [
     "topic": "מכשירי טיסה",
     "source": "19-35.pdf p2",
     "stem": "לפי התמונה המצורפת, מתאם פנייה (Turn Coordinator) נותן אינדיקציה של:",
-    "image": "img/q009.png",
+    "image": "img/heli-conversion-q009.png",
     "options": [
       {
         "text": "תנועת המטוס סביב ציר הסבסוב והגלגול",
@@ -837,7 +837,7 @@ window.TEST_BANKS["heli-conversion"] = [
     "topic": "מכשירי טיסה",
     "source": "19-35.pdf p6",
     "stem": "לפי התמונה המצורפת, המהירות המסומנת על ידי נקודה 'D' היא:",
-    "image": "img/q034.png",
+    "image": "img/heli-conversion-q034.png",
     "options": [
       {
         "text": "Vfe",
@@ -862,7 +862,7 @@ window.TEST_BANKS["heli-conversion"] = [
     "topic": "מכשירי טיסה",
     "source": "19-35.pdf p7",
     "stem": "לפי התמונה המצורפת, המהירות המסומנת על ידי נקודה 'B' היא:",
-    "image": "img/q035.png",
+    "image": "img/heli-conversion-q035.png",
     "options": [
       {
         "text": "Va",
@@ -1062,7 +1062,7 @@ window.TEST_BANKS["heli-conversion"] = [
     "topic": "אווירודינמיקה",
     "source": "19-35.pdf p8",
     "stem": "לפי התמונה המצורפת, בהנמכה ללא כוח מנוע (גלישה), באיזו זווית התקפה יעבור המטוס מרחק אופקי מרבי מגובה של 1000 רגל?",
-    "image": "img/q043.png",
+    "image": "img/heli-conversion-q043.png",
     "options": [
       {
         "text": "6",
@@ -2746,7 +2746,7 @@ window.TEST_BANKS["heli-conversion"] = [
     "topic": "הזדקרות ויציבות",
     "source": "36-57.pdf p1",
     "stem": "בהתייחס לתמונה המצורפת, מטוס יהיה בעל יציבות אורכית אם מיקום מרכז הכובד יחסית למרכז העילוי נמצא בנקודה:",
-    "image": "img/q111.png",
+    "image": "img/heli-conversion-q111.png",
     "options": [
       {
         "text": "A",
@@ -3238,7 +3238,7 @@ window.TEST_BANKS["heli-conversion"] = [
     "topic": "אווירודינמיקה",
     "source": "36-57.pdf p4",
     "stem": "לפי התמונה המצורפת, כיצד יש להחזיק את ההגאים בזמן הסעת המטוס לקראת המראה כאשר נושבת רוח חזקה, חצי צולבת מימין – חץ D?",
-    "image": "img/q131.png",
+    "image": "img/heli-conversion-q131.png",
     "options": [
       {
         "text": "מאזנת ימין מעלה, הגה גובה בניוטרל",
@@ -4038,7 +4038,7 @@ window.TEST_BANKS["heli-conversion"] = [
     "topic": "אווירודינמיקה",
     "source": "36-57.pdf p10",
     "stem": "לפי התמונה המצורפת, בטיסה יציבה במהירות המסומנת ע\"י נקודה 'A':",
-    "image": "img/q163.png",
+    "image": "img/heli-conversion-q163.png",
     "options": [
       {
         "text": "היחס Cl/Cd יהיה מזערי",
@@ -5671,7 +5671,7 @@ window.TEST_BANKS["heli-conversion"] = [
     "topic": "חוקה",
     "source": "huka.pdf p15",
     "stem": "מה מציין חץ ימינה (ציור מצורף) באזור הסימונים או על הקרקע בקצה מסלול הנחיתה שבשימוש?",
-    "image": "img/q228.png",
+    "image": "img/heli-conversion-q228.png",
     "options": [
       {
         "text": "את פניות כלי הטיס לפני הנחיתה ואחרי ההמראה בכיוון ימינה מותר לבצע באישור מגדל הפיקוח בלבד",
@@ -5721,7 +5721,7 @@ window.TEST_BANKS["heli-conversion"] = [
     "topic": "חוקה",
     "source": "huka.pdf p15",
     "stem": "מה מציין הסימן החזותי שבציור המצורף כאשר הוא מופיע על הקרקע באזור הסימנים (Signal Area)?",
-    "image": "img/q230.png",
+    "image": "img/heli-conversion-q230.png",
     "options": [
       {
         "text": "יש לנקוט בזהירות מיוחדת בהמראה ובנסיקה בגלל מצבו הגרוע של המסלול, או מכל סיבה אחרת",
@@ -5792,7 +5792,7 @@ window.TEST_BANKS["heli-conversion"] = [
     "topic": "חוקה",
     "source": "huka.pdf p16",
     "stem": "מה מציין הסימן החזותי שבציור המצורף כאשר הוא מופיע על הקרקע באזור הסימנים (Signal Area)?",
-    "image": "img/q233.png",
+    "image": "img/heli-conversion-q233.png",
     "options": [
       {
         "text": "הנחיתה אסורה, אבל האיסור יכול להיות לא ממושך",
@@ -5817,7 +5817,7 @@ window.TEST_BANKS["heli-conversion"] = [
     "topic": "חוקה",
     "source": "huka.pdf p17",
     "stem": "מה מציין הסימן החזותי שבציור המצורף כאשר הוא מופיע על הקרקע באזור הסימנים (Signal Area)?",
-    "image": "img/q234.png",
+    "image": "img/heli-conversion-q234.png",
     "options": [
       {
         "text": "כלי הטיס נדרש להמריא, להנמיך ולנחות רק על גבי מסלולי נחיתה ומסללי הסעה",
@@ -5842,7 +5842,7 @@ window.TEST_BANKS["heli-conversion"] = [
     "topic": "חוקה",
     "source": "huka.pdf p17",
     "stem": "מה מציינות שתי ספרות (ציור מצורף) במצב מאונך על מגדל הפיקוח או בקרבתו?",
-    "image": "img/q235.png",
+    "image": "img/heli-conversion-q235.png",
     "options": [
       {
         "text": "כיוון מגנטי 29° של מסלול הנחיתה שבשימוש",
@@ -5892,7 +5892,7 @@ window.TEST_BANKS["heli-conversion"] = [
     "topic": "חוקה",
     "source": "huka.pdf p18",
     "stem": "מה מציין צלב אופקי כפול לבן (ציור מצורף) באזור הסימנים?",
-    "image": "img/q237.png",
+    "image": "img/heli-conversion-q237.png",
     "options": [
       {
         "text": "כל המסלולים לא בשימוש",
@@ -5967,7 +5967,7 @@ window.TEST_BANKS["heli-conversion"] = [
     "topic": "חוקה",
     "source": "huka.pdf p19",
     "stem": "מה מציין הסימן החזותי שבציור המצורף כאשר הוא מופיע על הקרקע באזור הסימנים (Signal Area)?",
-    "image": "img/q240.png",
+    "image": "img/heli-conversion-q240.png",
     "options": [
       {
         "text": "הנחיתה אסורה והאיסור עלול להיות ממושך",
@@ -5992,7 +5992,7 @@ window.TEST_BANKS["heli-conversion"] = [
     "topic": "חוקה",
     "source": "huka.pdf p19",
     "stem": "מה מציין סימן \"T\" (ציור מצורף) על הקרקע?",
-    "image": "img/q241.png",
+    "image": "img/heli-conversion-q241.png",
     "options": [
       {
         "text": "כיוון נחיתה או המראה ממרכז המסלול",
@@ -11271,7 +11271,7 @@ window.TEST_BANKS["heli-conversion"] = [
     "topic": "מצבי טיסה",
     "source": "19-35.pdf p11",
     "stem": "לפי התמונה המצורפת. אם בפנייה ימנית קריאת מד פניה והטיה כמו בתמונה 'A', הוקטורים של הכוח הצנטרפוגלי ושל הרכיב האופקי של העילוי הם כמו בתמונה:",
-    "image": "img/q452.png",
+    "image": "img/heli-conversion-q452.png",
     "options": [
       {
         "text": "4, וצריך להגביר את הלחץ על הדוושה השמאלית כדי לתרגם את הכדור",
