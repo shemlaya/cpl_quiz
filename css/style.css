@@ -64,7 +64,8 @@ html, body {
   margin: 0;
   font-size: 18px;
   font-weight: 600;
-  flex: 1;
+  flex: 0 0 auto;
+  white-space: nowrap;
 }
 
 .link-btn {
@@ -81,6 +82,82 @@ html, body {
   font-size: 14px;
   color: var(--muted);
   font-variant-numeric: tabular-nums;
+  margin-inline-start: auto;
+}
+
+/* Test picker — dropdown next to the title for switching between question banks. */
+.test-picker-wrap {
+  position: relative;
+  flex: 1 1 auto;
+  min-width: 0;
+}
+
+.test-picker {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  max-width: 100%;
+  background: transparent;
+  border: 1px solid var(--card-border);
+  border-radius: 999px;
+  color: var(--fg);
+  font: inherit;
+  font-size: 14px;
+  padding: 6px 12px;
+  min-height: 36px;
+  cursor: pointer;
+}
+
+.test-picker:hover,
+.test-picker[aria-expanded="true"] {
+  border-color: var(--accent);
+}
+
+.test-picker #test-picker-label {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.test-picker .caret {
+  font-size: 12px;
+  color: var(--muted);
+  flex: 0 0 auto;
+}
+
+.test-picker-menu {
+  position: absolute;
+  top: calc(100% + 6px);
+  inset-inline-start: 0;
+  margin: 0;
+  padding: 4px;
+  list-style: none;
+  background: var(--card);
+  border: 1px solid var(--card-border);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  min-width: 220px;
+  max-width: min(360px, calc(100vw - 32px));
+  z-index: 10;
+}
+
+.test-picker-item {
+  padding: 10px 12px;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 15px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.test-picker-item:hover {
+  background: var(--bg);
+}
+
+.test-picker-item.active {
+  background: var(--accent);
+  color: var(--accent-fg);
 }
 
 #app {
@@ -89,8 +166,8 @@ html, body {
   padding: 16px;
 }
 
-.screen {
-  display: block;
+.screen[hidden] {
+  display: none;
 }
 
 .lead {

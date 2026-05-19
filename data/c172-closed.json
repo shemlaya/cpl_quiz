@@ -1,0 +1,4530 @@
+{
+  "questions": [
+    {
+      "id": "c172c001",
+      "topic": "פיינל 1",
+      "source": "form 1",
+      "stem": "תחום מרכז הכובד במטוס מסוג (NORMAL CATEGORY ) במשקל המראה 2400 LBS יהיה באינצים (התחשב במומנט מירבי קידמי) יהיה:",
+      "image": null,
+      "options": [
+        {
+          "text": "31.5-35.0",
+          "correct": false
+        },
+        {
+          "text": "39.5-47.3",
+          "correct": true
+        },
+        {
+          "text": "31.5-35.5",
+          "correct": false
+        },
+        {
+          "text": "40.50-47.50",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "c172c002",
+      "topic": "פיינל 1",
+      "source": "form 1",
+      "stem": "לאיזה מהמשפטים שלפניך הוא הנכון בהתייחס למטוס המצויד במכלי דלק מסוג long range?",
+      "image": null,
+      "options": [
+        {
+          "text": "סה\"כ הדלק הניתן לשימוש הוא 50 גלון",
+          "correct": true
+        },
+        {
+          "text": "סה\"כ הדלק הניתן לשימוש הוא 43 גלון",
+          "correct": false
+        },
+        {
+          "text": "סה\"כ הדלק הניתן לשימוש הוא 52 גלון",
+          "correct": false
+        },
+        {
+          "text": "סה\"כ הדלק הניתן לשימוש הוא 60 גלון",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "c172c003",
+      "topic": "פיינל 1",
+      "source": "form 1",
+      "stem": "משקל הנחיתה המירבי המאושר למטוס מסוג (NORMAL CATEGORY ) הוא:",
+      "image": null,
+      "options": [
+        {
+          "text": "2300 LBS",
+          "correct": false
+        },
+        {
+          "text": "2305 LBS",
+          "correct": false
+        },
+        {
+          "text": "1760 LBS",
+          "correct": false
+        },
+        {
+          "text": "2400 LBS",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": "c172c004",
+      "topic": "פיינל 1",
+      "source": "form 1",
+      "stem": "המהירות המירבית המותרת בשיוט מבחינת חוזק מבנה (MAX STRUCTURAL CRUSING SPEDS - VNO",
+      "image": null,
+      "options": [
+        {
+          "text": "KIAS 128 - KCAS 126",
+          "correct": false
+        },
+        {
+          "text": "KIAS 133 - KCAS 136",
+          "correct": false
+        },
+        {
+          "text": "KIAS 108 - KCAS 111",
+          "correct": false
+        },
+        {
+          "text": "KIAS 127 - KCAS 123",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": "c172c005",
+      "topic": "פיינל 1",
+      "source": "form 1",
+      "stem": "המהירות המומלצת לשיעור נסיקה מירבי בגובה פני הים הוא:",
+      "image": null,
+      "options": [
+        {
+          "text": "67 KIAS",
+          "correct": false
+        },
+        {
+          "text": "76 KIAS",
+          "correct": true
+        },
+        {
+          "text": "52 KIAS",
+          "correct": false
+        },
+        {
+          "text": "64 KIAS",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "c172c006",
+      "topic": "פיינל 1",
+      "source": "form 1",
+      "stem": "המהירות המומלצת לזווית נסיקה מיטבית בגובה פני הים הינה:",
+      "image": null,
+      "options": [
+        {
+          "text": "57 KIAS",
+          "correct": false
+        },
+        {
+          "text": "75 KIAS",
+          "correct": false
+        },
+        {
+          "text": "65 KIAS",
+          "correct": false
+        },
+        {
+          "text": "60 KIAS",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": "c172c007",
+      "topic": "פיינל 1",
+      "source": "form 1",
+      "stem": "כאשר מפעילים את מערכת האיוורור/חימום התא, אוויר חם/קר נכנס אל התא דרך:",
+      "image": null,
+      "options": [
+        {
+          "text": "פתחים הנמצאים ליד רגלי הטייס והנוסע ופתח נוסף בחלון הקידמי להפשרת אדים",
+          "correct": true
+        },
+        {
+          "text": "פתחים הממוקמים בתקרת התא",
+          "correct": false
+        },
+        {
+          "text": "תעלה הנמצאת מתחת למושבים של הטייס והנוסע",
+          "correct": false
+        },
+        {
+          "text": "שני פתחים ממוקמים ליד החלון הקידמי",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "c172c008",
+      "topic": "פיינל 1",
+      "source": "form 1",
+      "stem": "הסבר נוהל נחיתה עם צמיג בלי אוויר (תקר בצמיג הימני)",
+      "image": null,
+      "options": [
+        {
+          "text": "הורד 20 מעלות מדפים, נחת עם חרטום גבוה, החזק הכנף הימנית גבוה שהצמיג לא יגע בקרקע, שמור על הכיוון עם הגה כיוון שמאל",
+          "correct": false
+        },
+        {
+          "text": "נחת עם חרטום גבוה ללא מדפים, שמור על ציר מסלול בעזרת הגה הכיוון ובלם הגלגל השמאלי",
+          "correct": false
+        },
+        {
+          "text": "נחת עם שלושת הגלגלים עם מדפים מטה, הפעל מיד עם הנגיעה בלם שמאלי כדי למנוע סיבוב המטוס ימינה, בלום את המטוס במהירות האפשרית",
+          "correct": false
+        },
+        {
+          "text": "הורד מדפים כנדרש, בצע גישה רגילה, נחת על הצמיג השמאלי, החזק את הכנף הימנית גבוה על ידי מאזנת ככל האפשר, כך שהצמיג הפגוע לא יגע בקרקע",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": "c172c009",
+      "topic": "פיינל 1",
+      "source": "form 1",
+      "stem": "ההספק המירבי ב-2700 סל\"ד הוא:",
+      "image": null,
+      "options": [
+        {
+          "text": "320 BHP",
+          "correct": false
+        },
+        {
+          "text": "110 BHP",
+          "correct": false
+        },
+        {
+          "text": "118 BHP",
+          "correct": false
+        },
+        {
+          "text": "160 BHP",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": "c172c010",
+      "topic": "פיינל 1",
+      "source": "form 1",
+      "stem": "משמעות הקצה התחתון של הקשת הירוקה הוא:",
+      "image": null,
+      "options": [
+        {
+          "text": "מהירות ההזדקרות עם מדפים מעלה במרכז כובד אחורי ביותר",
+          "correct": false
+        },
+        {
+          "text": "מהירות ההזדקרות עם מדפים מטה במרכז כובד קדמי ביותר",
+          "correct": false
+        },
+        {
+          "text": "מהירות ההזדקרות עם מדפים מעלה במרכז כובד קדמי ביותר",
+          "correct": true
+        },
+        {
+          "text": "מהירות הזדקרות בתצורת המראה עם מרכז כובד קדמי ביותר",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "c172c011",
+      "topic": "פיינל 1",
+      "source": "form 1",
+      "stem": "טווח הצהוב של מד המהירות נמצא בתחום שבין:",
+      "image": null,
+      "options": [
+        {
+          "text": "111 - 40",
+          "correct": false
+        },
+        {
+          "text": "44 - 127",
+          "correct": false
+        },
+        {
+          "text": "127 - 158",
+          "correct": true
+        },
+        {
+          "text": "33 - 85",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "c172c012",
+      "topic": "פיינל 1",
+      "source": "form 1",
+      "stem": "כמות השמן המומלצת עבור טיסות ארוכות היא:",
+      "image": null,
+      "options": [
+        {
+          "text": "5 QUARTS",
+          "correct": false
+        },
+        {
+          "text": "4 QUARTS",
+          "correct": false
+        },
+        {
+          "text": "7 QUARTS",
+          "correct": true
+        },
+        {
+          "text": "6 QUARTS",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "c172c013",
+      "topic": "פיינל 1",
+      "source": "form 1",
+      "stem": "מהירות טיסה מירבית VNE בכל תצורה שהיא:",
+      "image": null,
+      "options": [
+        {
+          "text": "158 KIAS",
+          "correct": true
+        },
+        {
+          "text": "150 KIAS",
+          "correct": false
+        },
+        {
+          "text": "149 KIAS",
+          "correct": false
+        },
+        {
+          "text": "148 KIAS",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "c172c014",
+      "topic": "פיינל 1",
+      "source": "form 1",
+      "stem": "כמות הדלק שאיננה ניתנת לשימוש במטוס בעל מיכלים לטווח ארוך הינה:",
+      "image": null,
+      "options": [
+        {
+          "text": "4 גלון",
+          "correct": true
+        },
+        {
+          "text": "2 גלון",
+          "correct": false
+        },
+        {
+          "text": "3 גלון",
+          "correct": false
+        },
+        {
+          "text": "1.5 גלון",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "c172c015",
+      "topic": "פיינל 1",
+      "source": "form 1",
+      "stem": "המהירות המירבית המותרת עם מדפים מטה מלא VFE היא:",
+      "image": null,
+      "options": [
+        {
+          "text": "75 KIAS",
+          "correct": false
+        },
+        {
+          "text": "84 KIAS",
+          "correct": false
+        },
+        {
+          "text": "110 KIAS",
+          "correct": false
+        },
+        {
+          "text": "85 KIAS",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": "c172c016",
+      "topic": "פיינל 1",
+      "source": "form 1",
+      "stem": "מהו לחץ שמן מינימאלי מותר כאשר המנוע בסל\"ד סרק?",
+      "image": null,
+      "options": [
+        {
+          "text": "25 PSI",
+          "correct": true
+        },
+        {
+          "text": "40 PSI",
+          "correct": false
+        },
+        {
+          "text": "15 PSI",
+          "correct": false
+        },
+        {
+          "text": "20 PSI",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "c172c017",
+      "topic": "פיינל 1",
+      "source": "form 1",
+      "stem": "מהו המתח החשמלי המסופק מהמצבר?",
+      "image": null,
+      "options": [
+        {
+          "text": "28V",
+          "correct": false
+        },
+        {
+          "text": "12V",
+          "correct": false
+        },
+        {
+          "text": "16V",
+          "correct": false
+        },
+        {
+          "text": "24V",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": "c172c018",
+      "topic": "פיינל 1",
+      "source": "form 1",
+      "stem": "מהם התנאים לקבלת שעור נסיקה מירבי בגובה פני הים",
+      "image": null,
+      "options": [
+        {
+          "text": "מדפים 5 מעלות, מצערת פתוחה לגמרי, מהירות 65 קשרים",
+          "correct": false
+        },
+        {
+          "text": "מדפים מעלה, מצערת פתוחה לגמרי, מהירות 5-10 קשרים מעל VY",
+          "correct": false
+        },
+        {
+          "text": "מדפים 10 מעלות, מצערת פתוחה לגמרי, מהירות 56 קשרים",
+          "correct": false
+        },
+        {
+          "text": "מדפים מעלה, מצערת פתוחה לגמרי, מהירות 76 קשרים",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": "c172c019",
+      "topic": "פיינל 1",
+      "source": "form 1",
+      "stem": "כיצד מדללים תערובת על מנת להשיג חיסכון מירבי בדלק (המטוס איננו מצוייד במכשיר EGT)",
+      "image": null,
+      "options": [
+        {
+          "text": "דלל עד לקבלת סל\"ד מקסימאלי, ואז להמשיך לדלל עד נפילה של 25-50 סל\"ד",
+          "correct": true
+        },
+        {
+          "text": "דלל עד לקבלת סל\"ד מקסימאלי, ואז להעשיר עד נפילה של 25-50 סל\"ד",
+          "correct": false
+        },
+        {
+          "text": "דלל עד לקבלת סל\"ד מקסימאלי ואז להמשיך לדלל עד נפילה של 50 סל\"ד",
+          "correct": false
+        },
+        {
+          "text": "דלל עד לקבלת סל\"ד מקסימאלי, ואז להמשיך לדלל עד לירידה של 50 מעלות F",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "c172c020",
+      "topic": "פיינל 1",
+      "source": "form 1",
+      "stem": "הליכה סביב מתבצעת על ידי:",
+      "image": null,
+      "options": [
+        {
+          "text": "פתח מצערת לכוח מלא, מדפים ל-20 הרם מעלות, אוויר למאייד \"קר\"",
+          "correct": false
+        },
+        {
+          "text": "פתח מצערת לכוח מלא, אוויר למאייד \"קר\" הרם מדפים",
+          "correct": false
+        },
+        {
+          "text": "פתח מצערת לכוח מלא, אוויר למאייד \"קר\" הרם מדפים ל-10 מעלות",
+          "correct": false
+        },
+        {
+          "text": "פתח מצערת לכוח מלא, אוויר למאייד \"קר\", הרם מדפים ל-20 מעלות",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": "c172c021",
+      "topic": "פיינל 1",
+      "source": "form 1",
+      "stem": "בתהליך התנעת מנוע הבחנת באש מהמנוע, מהן הפעולות הנדרשות?",
+      "image": null,
+      "options": [
+        {
+          "text": "המשך בהתנעה, אם הצלחת להניע פתח כוח ל-1700 סל\"ד למשך מספר דקות, הדמם מנוע ובדוק לנזק.",
+          "correct": true
+        },
+        {
+          "text": "המשך בהתנעה, אם הצלחת להניע פתח כוח ל-1700 סל\"ד למשך מספר דקות, בצע בדיקת מגנטו ואוויר חם למאייד, בדוק כוח סטטי, אם המנוע עומד במגבלות המשך בטיסה כמתוכנן.",
+          "correct": false
+        },
+        {
+          "text": "הפסק התנעה, הזעק עזרה ברדיו, סגור תערובת וברז דלק, הפסק מתח חשמאלי, הפעל מטף.",
+          "correct": false
+        },
+        {
+          "text": "הפסק התנעה, סגור תערובת וברז דלק, הזעק עזרה ברדיו, הפסק מתח חשמאלי, הפעל מטף.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "c172c022",
+      "topic": "פיינל 1",
+      "source": "form 1",
+      "stem": "מהן הפעולות הנדרשות למצב בו התקבלה אינדיקציית לחץ שמן נמוך מאוד, מלווה בטמפרטורת שמן גבוהה מאוד?",
+      "image": null,
+      "options": [
+        {
+          "text": "ידית תערובת - סגור, ברז דלק - סגור, מפסק הצתה - OFF , בצע נחיתת אונס על פי נוהל נחיתת אונס.",
+          "correct": false
+        },
+        {
+          "text": "הקטן כוח מנוע, בחר שדה לנחיתת אונס, השתמש בכוח מנוע מינימלי אשר יאפשר לך לגעת בנקודה הרצויה.",
+          "correct": true
+        },
+        {
+          "text": "ידית תערובת - סגור, בחר שדה לנחיתת אונס, בצלע בסיס התנע מחדש, השתמש בכוח מינימלי אשר יאפשר לך לגעת בנקודה הרצויה.",
+          "correct": false
+        },
+        {
+          "text": "בחר שדה לנחיתת אונס, ידית תערובת - סגור, ברז דלק - סגור, כל המפסקים החשמליים בתא - OFF , בצע נחיתת אונס לפי הנוהל המתאים.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "c172c023",
+      "topic": "פיינל 1",
+      "source": "form 1",
+      "stem": "בנחיתת חירום על המים תשמור הנמכה של:",
+      "image": null,
+      "options": [
+        {
+          "text": "300 רגל/דקה 55 קשר",
+          "correct": true
+        },
+        {
+          "text": "500 רגל/דקה 65 קשר",
+          "correct": false
+        },
+        {
+          "text": "לא משנה שיעור ההנמכה",
+          "correct": false
+        },
+        {
+          "text": "רגילה - 65 קשר",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "c172c024",
+      "topic": "פיינל 1",
+      "source": "form 1",
+      "stem": "מהו לחץ האוויר בצמיגים?",
+      "image": null,
+      "options": [
+        {
+          "text": "קדמי - 34PSI ראשיים 28PSI",
+          "correct": true
+        },
+        {
+          "text": "קדמי - 27PSI ראשיים 25PSI",
+          "correct": false
+        },
+        {
+          "text": "קדמי - 28PSI ראשיים 34PSI",
+          "correct": false
+        },
+        {
+          "text": "קדמי - 30PSI ראשיים 31PSI",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "c172c025",
+      "topic": "פיינל 1",
+      "source": "form 1",
+      "stem": "מהו המשקל המקסימאלי בחניה (RAMP)",
+      "image": null,
+      "options": [
+        {
+          "text": "2,407 LB",
+          "correct": true
+        },
+        {
+          "text": "2,380 LB",
+          "correct": false
+        },
+        {
+          "text": "2,400 LB",
+          "correct": false
+        },
+        {
+          "text": "2,470 LB",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "c172c026",
+      "topic": "פיינל 1",
+      "source": "form 1",
+      "stem": "מהירות מבנה מקסימאלית VNO היא",
+      "image": null,
+      "options": [
+        {
+          "text": "127 KIAS",
+          "correct": true
+        },
+        {
+          "text": "123 KIAS",
+          "correct": false
+        },
+        {
+          "text": "158 KIAS",
+          "correct": false
+        },
+        {
+          "text": "111 KIAS",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "c172c027",
+      "topic": "פיינל 1",
+      "source": "form 1",
+      "stem": "מהירות מירבית לתמרון, VA (משקל 2400LB) היא:",
+      "image": null,
+      "options": [
+        {
+          "text": "82 KIAS",
+          "correct": false
+        },
+        {
+          "text": "127 KIAS",
+          "correct": false
+        },
+        {
+          "text": "99 KIAS",
+          "correct": true
+        },
+        {
+          "text": "92 KIAS",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "c172c028",
+      "topic": "פיינל 1",
+      "source": "form 1",
+      "stem": "מהי טמפרטות השמן המקסימאלית:",
+      "image": null,
+      "options": [
+        {
+          "text": "115 PSI",
+          "correct": false
+        },
+        {
+          "text": "245 מעלות F",
+          "correct": true
+        },
+        {
+          "text": "245 מעלות C",
+          "correct": false
+        },
+        {
+          "text": "118 מעלות F",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "c172c029",
+      "topic": "פיינל 1",
+      "source": "form 1",
+      "stem": "מגבלות עומס המטוס - G (מדפים מעלה) הן:",
+      "image": null,
+      "options": [
+        {
+          "text": "3.8G (- 1.52)G",
+          "correct": true
+        },
+        {
+          "text": "3G",
+          "correct": false
+        },
+        {
+          "text": "3.7G (- 1.5)G",
+          "correct": false
+        },
+        {
+          "text": "4.4G (- 1.76)G",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "c172c030",
+      "topic": "פיינל 1",
+      "source": "form 1",
+      "stem": "מהי המהירות לטווח גלישה מירבי",
+      "image": null,
+      "options": [
+        {
+          "text": "55 KIAS",
+          "correct": false
+        },
+        {
+          "text": "60 KIAS",
+          "correct": false
+        },
+        {
+          "text": "70 KIAS",
+          "correct": false
+        },
+        {
+          "text": "65 KIAS",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": "c172c031",
+      "topic": "פיינל 1",
+      "source": "form 1",
+      "stem": "פעולותיך במקרה של אובדן מנוע בזמן המראה הן:",
+      "image": null,
+      "options": [
+        {
+          "text": "בלמים-לחץ, מצערת-סגור, תערובת-סגור, ברז דלק-סגור.",
+          "correct": false
+        },
+        {
+          "text": "מצערת-סגור, בלמים-לחץ, מדפים-הרם, תערובת-סגור, מצתים-סגור,מצבר-סגור",
+          "correct": true
+        },
+        {
+          "text": "בלמים-לחץ, מדפים-הרם, תערובת-סגור, מצערת-סגור.",
+          "correct": false
+        },
+        {
+          "text": "מצערת-סגור, תערובת-סגור, מצתים-סגור, מצבר-סגור, בלמים-לחץ.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "c172c032",
+      "topic": "פיינל 1",
+      "source": "form 1",
+      "stem": "מהו הסל\"ד התקין בבדיקה סטטית לפני המראה?",
+      "image": null,
+      "options": [
+        {
+          "text": "2,300 - 2,420 סל\"ד",
+          "correct": true
+        },
+        {
+          "text": "2,300 - 2,400 סל\"ד",
+          "correct": false
+        },
+        {
+          "text": "2,280 - 2,400 סל\"ד",
+          "correct": false
+        },
+        {
+          "text": "לא פחות מ - 2700",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "c172c033",
+      "topic": "פיינל 1",
+      "source": "form 1",
+      "stem": "מהו הנוהל המלא לכשל במנוע מייד לאחר המראה?",
+      "image": null,
+      "options": [
+        {
+          "text": "מהירות - 60 קשר 2. מאייד - למצב חם 3. משאבת תיחול - בפנים ונעול 4. ברז דלק - פתוח 5. תערובת - עשירה 6. מצתים - על שניהם (או לבצע נסיון הנעה אם הפרופלר נעצר)",
+          "correct": false
+        },
+        {
+          "text": "מצערת - סגור 2. מעצורים - הפעל 3. מדפים - הרם 4. תערובת - להדממה 5. מצתים - סגור 6. מסטר סוויץ - סגור",
+          "correct": false
+        },
+        {
+          "text": "מהירות - 65 קשר 2. תערובת - להדממה 3. ברז דלק - סגור 4. מצתים - סגור 5. מדפים - בהתאם לצורך 6. מסטר סוויץ - סגור",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": "c172c034",
+      "topic": "פיינל 2",
+      "source": "form 2",
+      "stem": "לאחר התנעה קשה של המנוע, הינך מבחין כי האלטרנטור אינו טוען את המצבר. אחת הסיבות לכך היא:",
+      "image": null,
+      "options": [
+        {
+          "text": "מד המתח של האלטרנטור אינו תקין",
+          "correct": false
+        },
+        {
+          "text": "המצבר טעון לגמרי",
+          "correct": false
+        },
+        {
+          "text": "מפסק האלטרנטור אינו פועל",
+          "correct": true
+        },
+        {
+          "text": "קיים מתח יתר במצבר",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "c172c035",
+      "topic": "פיינל 2",
+      "source": "form 2",
+      "stem": "הספק המראה או הספק מירבי ב-2700 סל\"ד הוא:",
+      "image": null,
+      "options": [
+        {
+          "text": "BHP 118",
+          "correct": false
+        },
+        {
+          "text": "160 BHP",
+          "correct": true
+        },
+        {
+          "text": "320 BHP",
+          "correct": false
+        },
+        {
+          "text": "110 BHP",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "c172c036",
+      "topic": "פיינל 2",
+      "source": "form 2",
+      "stem": "הטווח הצהוב של מד המהירות (טווח הזהירות) נמצא בתחום שבין:",
+      "image": null,
+      "options": [
+        {
+          "text": "111 - 40",
+          "correct": false
+        },
+        {
+          "text": "44 - 127",
+          "correct": false
+        },
+        {
+          "text": "127 - 158",
+          "correct": true
+        },
+        {
+          "text": "33 - 85",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "c172c037",
+      "topic": "פיינל 2",
+      "source": "form 2",
+      "stem": "על מנת להפעיל את בלם החניה עליך לפעול כדלקמן:",
+      "image": null,
+      "options": [
+        {
+          "text": "משוך את ידית הבלם, לחץ על הדוושות, שחרר את ידית הבלם",
+          "correct": false
+        },
+        {
+          "text": "לחץ על הדוושות, משוך ידית הבלם, שחרר הדוושות, שחרר ידית הבלם",
+          "correct": true
+        },
+        {
+          "text": "לחץ על הדוושות, משוך את ידית הבלם, שחרר את ידית הבלם ושחרר את הדוושות",
+          "correct": false
+        },
+        {
+          "text": "משוך את ידית הבלם, לחץ על הדוושות, שחרר את ידית הבלם, שחרר הדוושות",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "c172c038",
+      "topic": "פיינל 2",
+      "source": "form 2",
+      "stem": "צפצפת אזהרת הזדקרות נותנת אות צפירה:",
+      "image": null,
+      "options": [
+        {
+          "text": "6-12 מי\"ש לפני ההזדקרות, הנמשך עד להזדקרות",
+          "correct": false
+        },
+        {
+          "text": "5-10 קשר לפני ההזדקרות, הנמשך עד להזדקרות",
+          "correct": true
+        },
+        {
+          "text": "6-8 קשר לפני שהמטוס מזדקר אשר נמשך עד למהירות 40 קשר",
+          "correct": false
+        },
+        {
+          "text": "10 קשר לפני שמהירות ההזדקרות מושגת, כאשר היא נפסקת כשהמטוס מזדקר",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "c172c039",
+      "topic": "פיינל 2",
+      "source": "form 2",
+      "stem": "מהו משקל ההמראה/הנחיתה המקסימאלי?",
+      "image": null,
+      "options": [
+        {
+          "text": "2,408 LB",
+          "correct": false
+        },
+        {
+          "text": "2,300 LB",
+          "correct": false
+        },
+        {
+          "text": "2,400 LB",
+          "correct": true
+        },
+        {
+          "text": "2,200 LB",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "c172c040",
+      "topic": "פיינל 2",
+      "source": "form 2",
+      "stem": "הזווית המירבית שמותר לסובב את הגלגל הקידמי לצדדים בשעת גרירת המטוס בעזרת מוט גרירה הינה:",
+      "image": null,
+      "options": [
+        {
+          "text": "8.5 מעלות לכל צד",
+          "correct": false
+        },
+        {
+          "text": "40 מעלות לכל צד",
+          "correct": false
+        },
+        {
+          "text": "30 מעלות לכל צד",
+          "correct": true
+        },
+        {
+          "text": "15 מעלות לכל צד",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "c172c041",
+      "topic": "פיינל 2",
+      "source": "form 2",
+      "stem": "כמות השמן המירבית שעוקת המנוע יכולה להכיל לא כולל החלפת מסנן שמן היא:",
+      "image": null,
+      "options": [
+        {
+          "text": "7 QUARTS",
+          "correct": true
+        },
+        {
+          "text": "6 QUARTS",
+          "correct": false
+        },
+        {
+          "text": "5 QUARTS",
+          "correct": false
+        },
+        {
+          "text": "4 QUARTS",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "c172c042",
+      "topic": "פיינל 2",
+      "source": "form 2",
+      "stem": "מהי המהירות המירבית המותרת עם מדפים מטה מלא (IAS )?",
+      "image": null,
+      "options": [
+        {
+          "text": "85 קשר",
+          "correct": true
+        },
+        {
+          "text": "83 קשר",
+          "correct": false
+        },
+        {
+          "text": "80 קשר",
+          "correct": false
+        },
+        {
+          "text": "75 קשר",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "c172c043",
+      "topic": "פיינל 2",
+      "source": "form 2",
+      "stem": "בסחרור מומלץ:",
+      "image": null,
+      "options": [
+        {
+          "text": "לבצע החלצות במנוע פועל",
+          "correct": false
+        },
+        {
+          "text": "לא לבצע את התרגיל עם מדפים מטה",
+          "correct": true
+        },
+        {
+          "text": "אין תשובה נכונה",
+          "correct": false
+        },
+        {
+          "text": "לבצע לפחות 6 סיבובים שלמים",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "c172c044",
+      "topic": "פיינל 2",
+      "source": "form 2",
+      "stem": "מהם מצבי בוחר הדלק:",
+      "image": null,
+      "options": [
+        {
+          "text": "3 מצבים - both, right, left",
+          "correct": false
+        },
+        {
+          "text": "2 מצבים - right, left",
+          "correct": false
+        },
+        {
+          "text": "3 מצבים - right, left, off",
+          "correct": false
+        },
+        {
+          "text": "4 מצבים - both, right, left, off",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": "c172c045",
+      "topic": "פיינל 2",
+      "source": "form 2",
+      "stem": "בזמן תרגול סיחרור, מינימום הגובה הדרוש להשלמת ההחלצות מהסיחרור הוא כדלקמן:",
+      "image": null,
+      "options": [
+        {
+          "text": "3000 רגל מעל גובה השדה",
+          "correct": false
+        },
+        {
+          "text": "1000 רגל מעל הנקודה הגבוהה ביותר ברדיוס של 2000 רגל ממקום התרגיל",
+          "correct": false
+        },
+        {
+          "text": "1500 רגל מעל גובה השדה",
+          "correct": true
+        },
+        {
+          "text": "1500 רגל QNH",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "c172c046",
+      "topic": "פיינל 2",
+      "source": "form 2",
+      "stem": "מהו השמן השימושי במנוע בהתאם לטמפרטורה חיצונית?",
+      "image": null,
+      "options": [
+        {
+          "text": "שלושים SEA מעל +26 מעלות C",
+          "correct": false
+        },
+        {
+          "text": "חמישים SEA בתחום+ 35 מעלות C עד 1 - C",
+          "correct": false
+        },
+        {
+          "text": "ארבעים SEA בתחום +32 מעלות C עד 1- C",
+          "correct": true
+        },
+        {
+          "text": "ארבעים SEA מעל +35 מעלות C",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "c172c047",
+      "topic": "פיינל 2",
+      "source": "form 2",
+      "stem": "איזה מהמשפטים שלפניך הוא הנכון בהתייחס למטוס המצויד במכלי דלק סטנדרטיים?",
+      "image": null,
+      "options": [
+        {
+          "text": "סה\"כ הדלק הניתן לשימוש הוא 40 גלון",
+          "correct": true
+        },
+        {
+          "text": "סה\"כ הדלק הניתן לשימוש הוא 60 גלון",
+          "correct": false
+        },
+        {
+          "text": "סה\"כ הדלק הניתן לשימוש הוא 43 גלון",
+          "correct": false
+        },
+        {
+          "text": "סה\"כ הדלק הניתן לשימוש הוא 52 גלון",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "c172c048",
+      "topic": "פיינל 2",
+      "source": "form 2",
+      "stem": "מהיכן מגיע הדלק למשאבת התיחול?",
+      "image": null,
+      "options": [
+        {
+          "text": "מברז הדלק",
+          "correct": false
+        },
+        {
+          "text": "מקו אספקה מיכל ימין",
+          "correct": false
+        },
+        {
+          "text": "מקו אספקה מיכל שמאל",
+          "correct": false
+        },
+        {
+          "text": "ממסנן הדלק",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": "c172c049",
+      "topic": "פיינל 2",
+      "source": "form 2",
+      "stem": "במקרה של פתיחה בלתי רצונית של חלון צדדי בזמן טיסה יש להקטין מהירות למהירות:",
+      "image": null,
+      "options": [
+        {
+          "text": "90 KNOTS",
+          "correct": false
+        },
+        {
+          "text": "85 KNOTS",
+          "correct": false
+        },
+        {
+          "text": "95 KNOTS",
+          "correct": false
+        },
+        {
+          "text": "75 KNOTS",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": "c172c050",
+      "topic": "פיינל 2",
+      "source": "form 2",
+      "stem": "המהירות מירבית המותרת לפתיחת חלון, או לטיסה עם החלון פתוח היא:",
+      "image": null,
+      "options": [
+        {
+          "text": "150 KIAS",
+          "correct": false
+        },
+        {
+          "text": "158 KIAS",
+          "correct": true
+        },
+        {
+          "text": "149 KIAS",
+          "correct": false
+        },
+        {
+          "text": "148 KIAS",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "c172c051",
+      "topic": "פיינל 2",
+      "source": "form 2",
+      "stem": "במטוס מורכב אלטרנטור של:",
+      "image": null,
+      "options": [
+        {
+          "text": "VOLT 28 - AMH 50",
+          "correct": false
+        },
+        {
+          "text": "VOLT 16 - AMH 45",
+          "correct": false
+        },
+        {
+          "text": "VOLT 28 - AMH 60",
+          "correct": true
+        },
+        {
+          "text": "VOLT 24 - AMH 60",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "c172c052",
+      "topic": "פיינל 2",
+      "source": "form 2",
+      "stem": "מה מהירות ההזדקרות של המטוס ב- C.G קדמי ומדפים 30 מעלות?",
+      "image": null,
+      "options": [
+        {
+          "text": "43 KCAS",
+          "correct": false
+        },
+        {
+          "text": "48 KCAS",
+          "correct": false
+        },
+        {
+          "text": "35 KCAS",
+          "correct": false
+        },
+        {
+          "text": "46 KCAS",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": "c172c053",
+      "topic": "פיינל 3",
+      "source": "form 3",
+      "stem": "כאשר אור אזהרה אדום (LOW VOLTAGE ) נדלק פירושו:",
+      "image": null,
+      "options": [
+        {
+          "text": "שהחישן למתח יתר ניתק אוטומטית עם האלטרנטור ממעגל אספקת המתח במטוס, כאשר המתח במעגל הגיע לערך של 31.5 וולט.",
+          "correct": false
+        },
+        {
+          "text": "הנתיך המעגלי במטוס האחראי לאספקת המתחים במטוס נשלף ממקומו, ויש להחזירו בדחיפה למקומו במהירות האפשרית",
+          "correct": false
+        },
+        {
+          "text": "שהאלטרנטור מנותק ושהמצבר מספק את כל האנרגיה החשמלית להפעלת המטוס",
+          "correct": false
+        },
+        {
+          "text": "במידה והתקלה היתה רגעית, האלטרנטור אמור לחזור לפעולה רק בעזרת פעולה יזומה שצריכה לבוא מצד הטייס.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": "c172c054",
+      "topic": "פיינל 3",
+      "source": "form 3",
+      "stem": "ידיות האיוורור מווסתות כניסת אוויר:",
+      "image": null,
+      "options": [
+        {
+          "text": "כל התשובות נכונות",
+          "correct": true
+        },
+        {
+          "text": "BLENDED AIR",
+          "correct": false
+        },
+        {
+          "text": "RAM AIR FLOW",
+          "correct": false
+        },
+        {
+          "text": "HEATED AIR",
+          "correct": false
+        },
+        {
+          "text": "VENTILATING AIR",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "c172c055",
+      "topic": "פיינל 3",
+      "source": "form 3",
+      "stem": "טמפרטורת ראש צילינדר מרבית מותרת (קו אדום) הינה:",
+      "image": null,
+      "options": [
+        {
+          "text": "475 מעלות F",
+          "correct": false
+        },
+        {
+          "text": "250 מעלות C",
+          "correct": false
+        },
+        {
+          "text": "לא נתון בספר",
+          "correct": true
+        },
+        {
+          "text": "500 מעלות F",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "c172c056",
+      "topic": "פיינל 3",
+      "source": "form 3",
+      "stem": "בטיסה שתימשך עד 3 שעות מומלץ למלא שמן בכמות של:",
+      "image": null,
+      "options": [
+        {
+          "text": "7 QUARTS",
+          "correct": true
+        },
+        {
+          "text": "6 QUARTS",
+          "correct": false
+        },
+        {
+          "text": "5 QUARTS",
+          "correct": false
+        },
+        {
+          "text": "4 QUARTS",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "c172c057",
+      "topic": "פיינל 3",
+      "source": "form 3",
+      "stem": "בידית בוחר המדפים ישנם עוצרים מכניים (בליטות בחריץ הידית) במצבים של:",
+      "image": null,
+      "options": [
+        {
+          "text": "20 - 30 מעלות",
+          "correct": false
+        },
+        {
+          "text": "10 - 20 מעלות",
+          "correct": true
+        },
+        {
+          "text": "10 - 20 - 30 מעלות",
+          "correct": false
+        },
+        {
+          "text": "10 - 20 - 30 - 40 מעלות",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "c172c058",
+      "topic": "פיינל 3",
+      "source": "form 3",
+      "stem": "הנך מבצע בדיקות כח סטטי להמראה, מהו טווח הסל\"ד הנדרש?",
+      "image": null,
+      "options": [
+        {
+          "text": "2420 - 2300",
+          "correct": true
+        },
+        {
+          "text": "2480 - 2380",
+          "correct": false
+        },
+        {
+          "text": "2650 - 2550",
+          "correct": false
+        },
+        {
+          "text": "2550 - 2450",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "c172c059",
+      "topic": "פיינל 3",
+      "source": "form 3",
+      "stem": "איזה מהמשפטים שלפניך הוא הנכון בהתייחס למטוס המצויד במכלי דלק מסוג long range?",
+      "image": null,
+      "options": [
+        {
+          "text": "סה\"כ הדלק הניתן לשימוש הוא 50 גלון",
+          "correct": true
+        },
+        {
+          "text": "סה\"כ הדלק הניתן לשימוש הוא 60 גלון",
+          "correct": false
+        },
+        {
+          "text": "סה\"כ הדלק הניתן לשימוש הוא 43 גלון",
+          "correct": false
+        },
+        {
+          "text": "סה\"כ הדלק הניתן לשימוש הוא 52 גלון",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "c172c060",
+      "topic": "פיינל 3",
+      "source": "form 3",
+      "stem": "המהירות המירבית המותרת בשיוט מבחינת חוזק מבנה MAX STRUCTURAL CRUSING SPEDS - VNO",
+      "image": null,
+      "options": [
+        {
+          "text": "KIAS 133 - KCAS 136",
+          "correct": false
+        },
+        {
+          "text": "KIAS 108 - KCAS 111",
+          "correct": false
+        },
+        {
+          "text": "KIAS 127 - KCAS 123",
+          "correct": true
+        },
+        {
+          "text": "KIAS 128 - KCAS 126",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "c172c061",
+      "topic": "פיינל 3",
+      "source": "form 3",
+      "stem": "איזה מהמשפטים שלפניך הוא הנכון בהתייחס לבדיקות מגנטו לפני המראה?",
+      "image": null,
+      "options": [
+        {
+          "text": "נפילת הסל\"ד המירבית המותרת בבדיקת כל מגנטו הינה 125, הפרש מירבי בין מגנטו R-L הוא 50 סל\"ד",
+          "correct": true
+        },
+        {
+          "text": "בדיקת המגנטו מבוצעת ב-1700 סל\"ד, ההפרש בנפילת הסל\"ד בין מגנטו R-L לא יעלה על 125 סל\"ד",
+          "correct": false
+        },
+        {
+          "text": "נפילת הסל\"ד המירבית המותרת בבדיקת כל מגנטו היא 50, הפרש מירבי בין מגנטו R-L הוא 25 סל\"ד",
+          "correct": false
+        },
+        {
+          "text": "בדיקת המגנטו מבוצעת ב-1700 סל\"ד, ההפרש בנפילת הסל\"ד בין מגנטו R-L לא יעלה על 75 סל\"ד",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "c172c062",
+      "topic": "פיינל 3",
+      "source": "form 3",
+      "stem": "כיצד תפעיל את המטוס על מנת להשיג שיעור נסיקה מירבי?",
+      "image": null,
+      "options": [
+        {
+          "text": "מדפים מעלה, מצערת פתוחה לגמרי, מהירות 76 קשר בגובה פני הים, המהירות יורדת עם העלייה לגובה.",
+          "correct": true
+        },
+        {
+          "text": "מדפים 5 מעלות, מצערת פתוחה לגמרי, מהירות 58 קשר ISA",
+          "correct": false
+        },
+        {
+          "text": "מדפים 10 מעלות, מצערת פתוחה לגמרי, מהירות 54 קשר ISA",
+          "correct": false
+        },
+        {
+          "text": "מדפים מעלה, מצערת פתוחה לגמרי, מהירות 10 קשר מעל מהירות ההזדקרות לפי מרכז הכובד",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "c172c063",
+      "topic": "פיינל 3",
+      "source": "form 3",
+      "stem": "מהו הנוהל לדילול תערובת על מנת להשיג חיסכון מירבי בדלק (המטוס איננו מצוייד ב- EGT IND )",
+      "image": null,
+      "options": [
+        {
+          "text": "דלל עד לקבלת טמפרטורת שמן מירבית, המשך לדלל עד לירידה של 50 מעלות F .",
+          "correct": false
+        },
+        {
+          "text": "דלל עד לקבלת סל\"ד מקסימאלי ואז להמשיך לדלל עד נפילה של 30 סל\"ד",
+          "correct": false
+        },
+        {
+          "text": "דלל עד לקבלת סל\"ד מקסימאלי, ואז להמשיך לדלל עד נפילה של 25-50 סל\"ד",
+          "correct": true
+        },
+        {
+          "text": "דלל עד לקבלת סל\"ד מקסימאלי ואז להמשיך לדלל עד נפילה של 50 סל\"ד",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "c172c064",
+      "topic": "פיינל 3",
+      "source": "form 3",
+      "stem": "מהו נוהל \"הליכה סביב\"?",
+      "image": null,
+      "options": [
+        {
+          "text": "פתח מצערת לכוח מלא, אוויר למאייד \"קר\" מדפים ל-20 מעלות",
+          "correct": true
+        },
+        {
+          "text": "פתח מצערת לכוח מלא, אוויר למאייד \"קר\", מדפים ל-10 מעלות",
+          "correct": false
+        },
+        {
+          "text": "הרם מדפים ל-10 מעלות, פתח מצערת לכוח מלא.",
+          "correct": false
+        },
+        {
+          "text": "הרם מדפים ל-20 מעלות, פתח מצערת לכוח מלא.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "c172c065",
+      "topic": "פיינל 3",
+      "source": "form 3",
+      "stem": "מהי זווית הצידוד המירבית לכן נחיתה קידמי?",
+      "image": null,
+      "options": [
+        {
+          "text": "30 מעלות לכל צד",
+          "correct": true
+        },
+        {
+          "text": "15 מעלות לכל צד",
+          "correct": false
+        },
+        {
+          "text": "8 מעלות לכל צד",
+          "correct": false
+        },
+        {
+          "text": "16 מעלות לכל צד",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "c172c066",
+      "topic": "פיינל 3",
+      "source": "form 3",
+      "stem": "נחיתה על המים ברוח קלה יש לבצע:",
+      "image": null,
+      "options": [
+        {
+          "text": "45 מעלות לגלים",
+          "correct": false
+        },
+        {
+          "text": "מקביל לגלים",
+          "correct": true
+        },
+        {
+          "text": "עם הגלים ואין להתחשב ברוח",
+          "correct": false
+        },
+        {
+          "text": "מול הרוח בכל מקרה",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "c172c067",
+      "topic": "פיינל 3",
+      "source": "form 3",
+      "stem": "נחיתה ללא הגה גובה יש לבצע עם מדפים",
+      "image": null,
+      "options": [
+        {
+          "text": "30 מעלות",
+          "correct": false
+        },
+        {
+          "text": ". 10 מעלות",
+          "correct": false
+        },
+        {
+          "text": "0 מעלות",
+          "correct": false
+        },
+        {
+          "text": "20 מעלות",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": "c172c068",
+      "topic": "פיינל 3",
+      "source": "form 3",
+      "stem": "הקשת הצהובה, במד המהירות, משתרעת בתחומי המהירות הבאים:",
+      "image": null,
+      "options": [
+        {
+          "text": "33-85 KIAS",
+          "correct": false
+        },
+        {
+          "text": "44-127 KIAS",
+          "correct": false
+        },
+        {
+          "text": "127-158 KIAS",
+          "correct": true
+        },
+        {
+          "text": "אין קשת צהובה",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "c172c069",
+      "topic": "פיינל 3",
+      "source": "form 3",
+      "stem": "מהו הסל\"ד המקסימאלי והספקו בהתאמה",
+      "image": null,
+      "options": [
+        {
+          "text": "2,700 סל\"ד - 160 כ\"ס",
+          "correct": true
+        },
+        {
+          "text": "2,550 סל\"ד - 160 כ\"ס",
+          "correct": false
+        },
+        {
+          "text": "2,550 סל\"ד - 150 כ\"ס",
+          "correct": false
+        },
+        {
+          "text": "2,700 סל\"ד - 150 כ\"ס",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "c172c070",
+      "topic": "פיינל 3",
+      "source": "form 3",
+      "stem": "לנחיתה ללא הגה גובה יש לקזז את המטוס למהירות",
+      "image": null,
+      "options": [
+        {
+          "text": "65 קשר",
+          "correct": true
+        },
+        {
+          "text": "90 קשר",
+          "correct": false
+        },
+        {
+          "text": "55 קשר",
+          "correct": false
+        },
+        {
+          "text": "60 קשר",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "c172c071",
+      "topic": "פיינל 3",
+      "source": "form 3",
+      "stem": "נוהל החלצות מצלילה סיבובית (SPIRAL DIVE ) - באם נכנסת לצלילה סיבובית בעת נסיון לצאת מכניסה בלתי מכוונת לעננים - המשך כדלקמן:",
+      "image": null,
+      "options": [
+        {
+          "text": "תערובת עשירה, חימום קרבורטור מלא, הפחתת כח מנוע, עצור את הסיבוב ע\"י רגל ומאזנת, קזז את המטוס כדי לשמור על הנמכה במהירות 70 KIAS , הרחק ידים מגלגל ההגה, השגח על מד הפניה והטיה ובצע תיקונים ע\"י רגלים בלבד, בדוק את מגמת התנועה של המצפן ובצע תיקונים זהירים בעזרת רגליים כדי לעצור את הסיבוב, אם יציאה מעננים, עבור לטיסת שיוט רגילה",
+          "correct": false
+        },
+        {
+          "text": "הבא מאזנות (AILERONS ) למצב נטרלי, סגור מצערת למצב - סרק, הפעל והחזק מלא הגה כיוון (RUDDER ) (כל הרגל בפנים) נגד כיוון הסיבוב, הפעל בזהירות הגה גובה (ELEVATOR ) אחורה כדי להקטין באיטיות את המהירות ל-70 KIAS - התאם את מקזז הגובה כדי לשמור על גלישה של 70 KIAS , הרחק ידים מגלגל ההגה, השתמש בהגה כיוון כדי לשמור כיוון, הפעל חימום קרבורטור, נקה מנוע מידי פעם, אבל המנע משמוש בהרבה כח מנוע כדי לא להפריע לקזוז הגלישה. בעת יציאה מהענן, עבור לטיסת שיוט רגילה.",
+          "correct": false
+        },
+        {
+          "text": "סגור מצערת, המשך בצלילה מבוקרת עד יציאה מהעננים ואז עצור את הסיבוב ע\"י שימוש מתואם של מאזנות ורגל, הפעל הגה גובה כדי להרים את האף לאופק, פתח מנוע ועבור לטיסת שיוט רגילה.",
+          "correct": false
+        },
+        {
+          "text": "סגור מצערת, עצור את הסיבוב על ידי שימוש מתואם במאזנות והגה כיוון, עד שהמטוס הסמלי במד פניה והטיה (TURN COORDINATOR ) מתיישר עם קו הייחוס של האופק, הפעל בזהירות הגה גובה (ELEVATOR) אחורה כדי להקטין באיטיות את המהירות ל - 80 KIAS , התאם את מקזז הגובה כדי לשמור על גלישה של 80 KIAS - הרחק ידים מגלגל ההגה, השתמש בהגה כיוון כדי לשמור כיוון, הפעל חימום קרבורטור, נקה מנוע מידי פעם, אבל המנע משימוש בהרבה כח מנוע כדי לא להפריע לקיזוז הגלישה, עם יציאה מהעננים, עבור לטיסת שיוט רגילה.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": "c172c072",
+      "topic": "פיינל 4",
+      "source": "form 4",
+      "stem": "נחיתת חירום במים תתבצע עם מדפים:",
+      "image": null,
+      "options": [
+        {
+          "text": "20-40 מעלות",
+          "correct": false
+        },
+        {
+          "text": "30 מעלות",
+          "correct": false
+        },
+        {
+          "text": "20-30 מעלות",
+          "correct": true
+        },
+        {
+          "text": "0 מעלות",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "c172c073",
+      "topic": "פיינל 4",
+      "source": "form 4",
+      "stem": "נחיתה על המים ברוח חזקה יש לבצע:",
+      "image": null,
+      "options": [
+        {
+          "text": "מול הרוח",
+          "correct": true
+        },
+        {
+          "text": "עם הגלים ואין להתחשב ברוח",
+          "correct": false
+        },
+        {
+          "text": "ב-45 מעלות לגלים",
+          "correct": false
+        },
+        {
+          "text": "מקביל לגלים",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "c172c074",
+      "topic": "פיינל 4",
+      "source": "form 4",
+      "stem": "מה מהירות ההזדקרות של המטוס ב- C.G קדמי ומדפים למעלה?",
+      "image": null,
+      "options": [
+        {
+          "text": "52 KCAS",
+          "correct": true
+        },
+        {
+          "text": "49 KCAS",
+          "correct": false
+        },
+        {
+          "text": "48 KCAS",
+          "correct": false
+        },
+        {
+          "text": "44 KCAS",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "c172c075",
+      "topic": "פיינל 4",
+      "source": "form 4",
+      "stem": "מהם מגבלות C.G קידמי ואחורי ב-NORMAL CATEGORY בהתאמה?",
+      "image": null,
+      "options": [
+        {
+          "text": "במשקל 1,950 LB, מרכז כובד קדמי 35 אינטש, במשקל 2,400 LB, מרכז כובד קדמי 39.5 אינטש, מרכז כובד אחורי - 47.3 אינטש.",
+          "correct": true
+        },
+        {
+          "text": "במשקל 2,400 LB, מרכז כובד קדמי 39.5 אינטש, במשקל 2,100 LB, מרכז כובד קדמי 35 אינטש, מרכז כובד אחורי - 47.3 אינטש.",
+          "correct": false
+        },
+        {
+          "text": "במשקל 2,100 LB, מרכז כובד קדמי 35 אינטש, במשקל 2,400 LB, מרכז כובד קדמי 36.5 אינטש, מרכז כובד אחורי - 47.3 אינטש.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "c172c076",
+      "topic": "פיינל 4",
+      "source": "form 4",
+      "stem": "במקרה של אובדן חשמלי כללי במטוס (כולל מצבר):",
+      "image": null,
+      "options": [
+        {
+          "text": "המדפים יופעלו הידראולית",
+          "correct": false
+        },
+        {
+          "text": "המדפים יופעלו מכנית",
+          "correct": false
+        },
+        {
+          "text": "אין אפשרות להפעיל מדפים",
+          "correct": true
+        },
+        {
+          "text": "המדפים יופעלו עם הקטנת מהירות - מיכנית",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "c172c077",
+      "topic": "פיינל 4",
+      "source": "form 4",
+      "stem": "כיצד מתישר גלגל החרטום לאחר המראה?",
+      "image": null,
+      "options": [
+        {
+          "text": "אוטומטית ע\"י מנגנון מיכני כאשר המשכך מאורך לגמרי",
+          "correct": true
+        },
+        {
+          "text": "אוטומטית ע\"י מנגנון הידראולי הפועל באמצעות הדוושות בתא הטייס.",
+          "correct": false
+        },
+        {
+          "text": "בזמן הנחיתה והנגיעה הגלגל תמיד מתישר עם כוון ריצת המטוס",
+          "correct": false
+        },
+        {
+          "text": "אוטומטית ע\"י מנגנון חשמלי, מופעל ע\"י הדוושות",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "c172c078",
+      "topic": "פיינל 4",
+      "source": "form 4",
+      "stem": "מה הוא הגובה שמעליו מומלץ לדלל תערובת?",
+      "image": null,
+      "options": [
+        {
+          "text": "5000 רגל",
+          "correct": false
+        },
+        {
+          "text": "4000 רגל",
+          "correct": false
+        },
+        {
+          "text": "2000 רגל",
+          "correct": false
+        },
+        {
+          "text": "3000 רגל",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": "c172c079",
+      "topic": "פיינל 4",
+      "source": "form 4",
+      "stem": "מדוע יש להמנע משמוש ממושך באוויר חם לקרבורטור על הקרקע?",
+      "image": null,
+      "options": [
+        {
+          "text": "בגלל חימום יתר של המנוע",
+          "correct": false
+        },
+        {
+          "text": "מותר להשתמש ללא מגבלה",
+          "correct": false
+        },
+        {
+          "text": "הדבר עלול לגרום לפעולה לא חלקה של המנוע",
+          "correct": false
+        },
+        {
+          "text": "בגלל שהאוויר הנכנס למנוע אינו עובר דרך מסנן אוויר",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": "c172c080",
+      "topic": "פיינל 4",
+      "source": "form 4",
+      "stem": "אלו תרגילי מותר לבצע עם המטוס? (בחר את המשפט הנכון ביותר)",
+      "image": null,
+      "options": [
+        {
+          "text": "שמיניות עצלות, CHANDELLES, סחרורים, הזדקרויות.",
+          "correct": true
+        },
+        {
+          "text": "שמיניות עצלות, CHANDELLES, פניה חדה.",
+          "correct": false
+        },
+        {
+          "text": "פניות חדות, סחרור הפוך, וטיסה על הגב.",
+          "correct": false
+        },
+        {
+          "text": "שמיניות עצלות, CHANDELLES , סחרורים.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "c172c081",
+      "topic": "פיינל 4",
+      "source": "form 4",
+      "stem": "מהי זווית ההארה של אורות הניווט הצידיים (אדום, ירוק):",
+      "image": null,
+      "options": [
+        {
+          "text": "120",
+          "correct": false
+        },
+        {
+          "text": "140",
+          "correct": false
+        },
+        {
+          "text": "90",
+          "correct": false
+        },
+        {
+          "text": "110",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": "c172c082",
+      "topic": "פיינל 4",
+      "source": "form 4",
+      "stem": "האם מותר לבצע סיחרור?",
+      "image": null,
+      "options": [
+        {
+          "text": "כן, רק ב-UTILITY CATEGORY - וללא מדפים מורדים מטה",
+          "correct": true
+        },
+        {
+          "text": "לא, אסור בשום פנים ואופן לבצע סיחרור במטוס זה.",
+          "correct": false
+        },
+        {
+          "text": "כן, רק ב-UTILITY CATEGORY - וללא מדפים מטה, 4 נוסעים מקסימום במטוס, וללא מטען כלל",
+          "correct": false
+        },
+        {
+          "text": "כן, רק כאשר המשקל המקסימאלי של המטוס איננו עולה על 2,100 LB והוא נמצא בתחום של UTILITY CATEGORY",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "c172c083",
+      "topic": "פיינל 4",
+      "source": "form 4",
+      "stem": "כיצד נזהה התקרחות במאייד (קרבורטור)?",
+      "image": null,
+      "options": [
+        {
+          "text": "נפילת סל\"ד הדרגתית, מלווה בפעולת מנוע לא סדירה",
+          "correct": true
+        },
+        {
+          "text": "נפילת סל\"ד פתאומית",
+          "correct": false
+        },
+        {
+          "text": "עליית סל\"ד הדרגתית, מלווה בפעולת מנוע לא סדירה",
+          "correct": false
+        },
+        {
+          "text": "לחץ שמן גבוה, מלווה בפעולת מנוע לא סדירה",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "c172c084",
+      "topic": "פיינל 4",
+      "source": "form 4",
+      "stem": "אלטרנטור הפסיק לפעול באוויר - פעולותיך יהיו?",
+      "image": null,
+      "options": [
+        {
+          "text": "בצע נחיתת אונס מיידית בשטח",
+          "correct": false
+        },
+        {
+          "text": "סגור את כל הצרכנים החשמליים ובצע נחיתת אונס מיידית",
+          "correct": false
+        },
+        {
+          "text": "סגור צרכנים חשמליים שאינם נחוצים, דווח בקשר על התקלה ונחת בשדה התעופה הקרוב",
+          "correct": true
+        },
+        {
+          "text": "הודע לבקר על התקלה, ובצע נחית אונס בשטח",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "c172c085",
+      "topic": "פיינל 4",
+      "source": "form 4",
+      "stem": "מהי זווית ההארה של אור הניווט הלבן?",
+      "image": null,
+      "options": [
+        {
+          "text": "140",
+          "correct": true
+        },
+        {
+          "text": "120",
+          "correct": false
+        },
+        {
+          "text": "110",
+          "correct": false
+        },
+        {
+          "text": "180",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "c172c086",
+      "topic": "פיינל 4",
+      "source": "form 4",
+      "stem": "מינימום שמן במנוע?",
+      "image": null,
+      "options": [
+        {
+          "text": "6 קווארט",
+          "correct": false
+        },
+        {
+          "text": "5 קווארט",
+          "correct": true
+        },
+        {
+          "text": "3 קווארט",
+          "correct": false
+        },
+        {
+          "text": "4 קווארט",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "c172c087",
+      "topic": "פיינל 4",
+      "source": "form 4",
+      "stem": "מהי כמות השמן הנמדדת המקסימאלית?",
+      "image": null,
+      "options": [
+        {
+          "text": "8 קוורט",
+          "correct": false
+        },
+        {
+          "text": "5 קוורט",
+          "correct": false
+        },
+        {
+          "text": "7 קוורט",
+          "correct": true
+        },
+        {
+          "text": "6 קוורט",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "c172c088",
+      "topic": "פיינל 4",
+      "source": "form 4",
+      "stem": "מהי כמות הדלק הניתנת לניצול במטוס סטנדרטי?",
+      "image": null,
+      "options": [
+        {
+          "text": "43 גלון",
+          "correct": false
+        },
+        {
+          "text": "44 גלון",
+          "correct": false
+        },
+        {
+          "text": "40 גלון",
+          "correct": true
+        },
+        {
+          "text": "38 גלון",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "c172c089",
+      "topic": "פיינל 4",
+      "source": "form 4",
+      "stem": "מהו סוג השמן הניתן לשימוש?",
+      "image": null,
+      "options": [
+        {
+          "text": "40 SAE",
+          "correct": true
+        },
+        {
+          "text": "20 SAE",
+          "correct": false
+        },
+        {
+          "text": "30 SAE",
+          "correct": false
+        },
+        {
+          "text": "50 SAE",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "c172c090",
+      "topic": "פיינל 4",
+      "source": "form 4",
+      "stem": "באיזו מהירות מבצעים נחיתת זהירות עם כוח מנוע?",
+      "image": null,
+      "options": [
+        {
+          "text": "65",
+          "correct": false
+        },
+        {
+          "text": "60",
+          "correct": true
+        },
+        {
+          "text": "75",
+          "correct": false
+        },
+        {
+          "text": "70",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "c172c091",
+      "topic": "פיינל 4",
+      "source": "form 4",
+      "stem": "באיזו מהירות מבצעים נחיתת זהירות ללא כוח מנוע - מדפים מטה?",
+      "image": null,
+      "options": [
+        {
+          "text": "60",
+          "correct": true
+        },
+        {
+          "text": "65",
+          "correct": false
+        },
+        {
+          "text": "75",
+          "correct": false
+        },
+        {
+          "text": "70",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "c172c092",
+      "topic": "פיינל 4",
+      "source": "form 4",
+      "stem": "באיזו מהירות מבצעים נחיתת זהירות ללא כוח מנוע - מדפים מעלה?",
+      "image": null,
+      "options": [
+        {
+          "text": "60",
+          "correct": false
+        },
+        {
+          "text": "70",
+          "correct": false
+        },
+        {
+          "text": "75",
+          "correct": false
+        },
+        {
+          "text": "65",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": "c172c093",
+      "topic": "פיינל 4",
+      "source": "form 4",
+      "stem": "מתי מנקזים דלק?",
+      "image": null,
+      "options": [
+        {
+          "text": "לפני הטיסה הראשונה והאחרונה, ואחרי כל תדלוק",
+          "correct": false
+        },
+        {
+          "text": "לפני טיסה ראשונה ולפני האחרונה",
+          "correct": false
+        },
+        {
+          "text": "לפני הטיסה הראשונה ואחרי כל תדלוק",
+          "correct": true
+        },
+        {
+          "text": "לפני טיסה ראשונה",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "c172c094",
+      "topic": "פיינל 4",
+      "source": "form 4",
+      "stem": "מהירות בל תעבור, VNE היא:",
+      "image": null,
+      "options": [
+        {
+          "text": "158 KCAS",
+          "correct": false
+        },
+        {
+          "text": "111 KIAS",
+          "correct": false
+        },
+        {
+          "text": "158 KIAS",
+          "correct": true
+        },
+        {
+          "text": "152 KIAS",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "c172c095",
+      "topic": "פיינל 5",
+      "source": "form 5",
+      "stem": "מהירות מבנה מקסימאלית VNO היא:",
+      "image": null,
+      "options": [
+        {
+          "text": "127 KIAS",
+          "correct": true
+        },
+        {
+          "text": "158 KIAS",
+          "correct": false
+        },
+        {
+          "text": "123 KIAS",
+          "correct": false
+        },
+        {
+          "text": "152 KIAS",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "c172c096",
+      "topic": "פיינל 5",
+      "source": "form 5",
+      "stem": "מהו הלחץ השמן המינימאלי והמקסימאלי בהתאמה?",
+      "image": null,
+      "options": [
+        {
+          "text": "15 - 100 PSI",
+          "correct": false
+        },
+        {
+          "text": "25 - 100 PSI",
+          "correct": false
+        },
+        {
+          "text": "25 - 115 PSI",
+          "correct": true
+        },
+        {
+          "text": "15 - 115 PSI",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "c172c097",
+      "topic": "פיינל 5",
+      "source": "form 5",
+      "stem": "מה הסיבה שיש צינורות אוורור במיכלי הדלק של המטוס?",
+      "image": null,
+      "options": [
+        {
+          "text": "לאפשר לעודפי הדלק להתנקז החוצה מהמיכלים",
+          "correct": false
+        },
+        {
+          "text": "כדי לאפשר לאדי הדלק לצאת מהמיכלים ובכך למנוע את התנפחות/התפוצצות המיכלים",
+          "correct": false
+        },
+        {
+          "text": "לקיים לחץ אוויר מתאים בתוך מיכלי הדלק שיאפשר זרימת דלק סדירה",
+          "correct": true
+        },
+        {
+          "text": "כדי לאפשר לאוויר לחדור למיכלים וכך למנוע התעבות אדי מים שעלולים להתערבב עם הדלק",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "c172c098",
+      "topic": "פיינל 5",
+      "source": "form 5",
+      "stem": "מהם ספקי החשמל במטוס ומהו תפקידם?",
+      "image": null,
+      "options": [
+        {
+          "text": "המצבר - להפעלת כל הצרכנים החשמלים במטוס. האלטרנטור - לטעינת המצבר ולהפעלת המגנטו לצורך הצתה",
+          "correct": false
+        },
+        {
+          "text": "המצבר - להפעלת המכשירים הצורכים מתח ישר. האלטרנטור - להפעלת המכשירים הצורכים מתח חילופין. המגנטו - להצתה",
+          "correct": false
+        },
+        {
+          "text": "המצבר - להתנעה ולחירום כאשר האלטרנטור לא פועל. האלטרנטור - להפעלת כל הצרכנים החשמליים במטוס. המגנטו - להצתה",
+          "correct": false
+        },
+        {
+          "text": "המצבר - להפעלת כל הצרכנים החשמליים. האלטרנטור - לטעינת המצבר, המגנטו - להצתה",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": "c172c099",
+      "topic": "פיינל 5",
+      "source": "form 5",
+      "stem": "הקצה התחתון של הקשת הירוקה במד המהירות:",
+      "image": null,
+      "options": [
+        {
+          "text": "מהירות הזדקרות מרכז כובד קידמי - מדפים ב-10 מעלות מטה",
+          "correct": false
+        },
+        {
+          "text": "מהירות מינימלית עם מדפים מטה",
+          "correct": false
+        },
+        {
+          "text": "מהירות הזדקרות עם מרכז כובד קידמי - מדפים מעלה",
+          "correct": true
+        },
+        {
+          "text": "מהירות הזדקרות מרכז כובד אחורי - מדפים מעלה",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "c172c100",
+      "topic": "פיינל 5",
+      "source": "form 5",
+      "stem": "מהי נפילת הסל\"ד בשימוש בחימום הקרבורטור (מאייד) כאשר המצערת פתוחה לחלוטין?",
+      "image": null,
+      "options": [
+        {
+          "text": "200 סל\"ד",
+          "correct": false
+        },
+        {
+          "text": "אין קשר בין נפילת סל\"ד לבין מצערת פתוחה",
+          "correct": false
+        },
+        {
+          "text": "75/150 סל\"ד",
+          "correct": true
+        },
+        {
+          "text": "50/100 סל\"ד",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "c172c101",
+      "topic": "פיינל 5",
+      "source": "form 5",
+      "stem": "גבולות הטווח הירוק במד לחץ השמן הם:",
+      "image": null,
+      "options": [
+        {
+          "text": "100 - 25 PSI",
+          "correct": false
+        },
+        {
+          "text": "90 - 60 PSI",
+          "correct": true
+        },
+        {
+          "text": "115 - 25 PSI",
+          "correct": false
+        },
+        {
+          "text": "100 - 60 PSI",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "c172c102",
+      "topic": "פיינל 5",
+      "source": "form 5",
+      "stem": "כמות הדלק שאיננה ניתנת לניצול במיכלי הדלק היא:",
+      "image": null,
+      "options": [
+        {
+          "text": "0.5 גלון",
+          "correct": false
+        },
+        {
+          "text": "3 גלון",
+          "correct": true
+        },
+        {
+          "text": "1.5 גלון",
+          "correct": false
+        },
+        {
+          "text": "4.5 גלון",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "c172c103",
+      "topic": "פיינל 5",
+      "source": "form 5",
+      "stem": "מערכת קירור המנוע מורכבת מ:",
+      "image": null,
+      "options": [
+        {
+          "text": "מערכת הידראולית לקירור",
+          "correct": false
+        },
+        {
+          "text": "מערכת שמן לקירור",
+          "correct": false
+        },
+        {
+          "text": "רדיאטור מים",
+          "correct": false
+        },
+        {
+          "text": "אוויר חיצוני העוטף את המנוע מ-2 צידיו.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": "c172c104",
+      "topic": "פיינל 5",
+      "source": "form 5",
+      "stem": "מהו הסל\"ד הנדרש להמראה רגילה?",
+      "image": null,
+      "options": [
+        {
+          "text": "2,500 - 2,400 סל\"ד",
+          "correct": false
+        },
+        {
+          "text": "2,300 - 2,420 סל\"ד",
+          "correct": true
+        },
+        {
+          "text": "2,300 - 2,400 סל\"ד",
+          "correct": false
+        },
+        {
+          "text": "2,280 - 2,400 סל\"ד",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "c172c105",
+      "topic": "פיינל 5",
+      "source": "form 5",
+      "stem": "מהי המהירות לגלישה מירבית?",
+      "image": null,
+      "options": [
+        {
+          "text": "70 KIAS",
+          "correct": false
+        },
+        {
+          "text": "55 KIAS",
+          "correct": false
+        },
+        {
+          "text": "65 KIAS",
+          "correct": true
+        },
+        {
+          "text": "60 KIAS",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "c172c106",
+      "topic": "פיינל 5",
+      "source": "form 5",
+      "stem": "מהן פעולותיך במקרה של אש בכנף?",
+      "image": null,
+      "options": [
+        {
+          "text": "מצתים-סגור, תערובת-סגור, חימום פיטו-סגור, מצבר-סגור.",
+          "correct": false
+        },
+        {
+          "text": "מהירות-85 קשר, מצבר-סגור, מצתים-שניהם, החלק-להרחקת האש ממיכלי הדלק.",
+          "correct": false
+        },
+        {
+          "text": "אורות ניווט-סגור, חימום פיטו-סגור, החלק-להרחקת האש ממיכלי הדלק.",
+          "correct": true
+        },
+        {
+          "text": "מהירות-65 קשר, שדה-בחר לנחיתה",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "c172c107",
+      "topic": "פיינל 5",
+      "source": "form 5",
+      "stem": "גבולות הטווח במד היניקה הם:",
+      "image": null,
+      "options": [
+        {
+          "text": "5 - 4 אינטש כספית",
+          "correct": false
+        },
+        {
+          "text": "5.4 - 4.5 אינטש כספית",
+          "correct": true
+        },
+        {
+          "text": "6.7 - 5.4 אינטש כספית",
+          "correct": false
+        },
+        {
+          "text": "110 - 25 אינטש כספית",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "c172c108",
+      "topic": "פיינל 5",
+      "source": "form 5",
+      "stem": "המהירות המומלצת לביצוע פניה חדה היא:",
+      "image": null,
+      "options": [
+        {
+          "text": "80 קשר",
+          "correct": false
+        },
+        {
+          "text": "89 קשר",
+          "correct": false
+        },
+        {
+          "text": "65 קשר",
+          "correct": false
+        },
+        {
+          "text": "95 קשר",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": "c172c109",
+      "topic": "פיינל 5",
+      "source": "form 5",
+      "stem": "מגבלות עומס מטוס - G - (מדפים מטה) הן:",
+      "image": null,
+      "options": [
+        {
+          "text": "3.5 1.76 - G",
+          "correct": false
+        },
+        {
+          "text": "3 G",
+          "correct": true
+        },
+        {
+          "text": "4.4 0 G",
+          "correct": false
+        },
+        {
+          "text": "4.4 1.76- G",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "c172c110",
+      "topic": "פיינל 5",
+      "source": "form 5",
+      "stem": "מהו נוהל הנמכת חירום בתוך העננים?",
+      "image": null,
+      "options": [
+        {
+          "text": "תערובת-עשירה, חימום מאייד-הפעל, שיעור הנמכה-500-800 רגל/דקה, מהירות 70/80 קשר",
+          "correct": true
+        },
+        {
+          "text": "תערובת-עניה, חימום מאייד-הפעל, מהירות הנמכה-85 קשר, תפעול רגליים בלבד.",
+          "correct": false
+        },
+        {
+          "text": "מצערת-סגור, תערובת-עשירה, מהירות-75 קשר, רגל שמאל-דחוף.",
+          "correct": false
+        },
+        {
+          "text": "מצערת-פתח, תערובת-עשירה, חימום מאייד-הפעל, רגל ימין-דחוף",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "c172c111",
+      "topic": "פיינל 5",
+      "source": "form 5",
+      "stem": "מהי הסיבה לפעולה בלתי סדירה של המנוע?",
+      "image": null,
+      "options": [
+        {
+          "text": "התקרחות במאייד",
+          "correct": false
+        },
+        {
+          "text": "לכלוך על אחד או יותר ממצתי המנוע",
+          "correct": false
+        },
+        {
+          "text": "כל התשובות נכונות",
+          "correct": true
+        },
+        {
+          "text": "בעיית מגנטו",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "c172c112",
+      "topic": "פיינל 5",
+      "source": "form 5",
+      "stem": "מהו הזמן המקסימאלי הדרוש לטעינת המצבר לאחר התנעה והפעלת צרכנים חשמליים?",
+      "image": null,
+      "options": [
+        {
+          "text": "מיד",
+          "correct": false
+        },
+        {
+          "text": "30 דקות",
+          "correct": true
+        },
+        {
+          "text": "5 דקות",
+          "correct": false
+        },
+        {
+          "text": "אין מגבלה",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "c172c113",
+      "topic": "פיינל 5",
+      "source": "form 5",
+      "stem": "פעולותיך במקרה של אבדן מנוע בזמן טיסה הן:",
+      "image": null,
+      "options": [
+        {
+          "text": "מהירות-60 קשר, חימום מאייד-הפעל, שדה-בחר, תערובת-עשירה, רדיו-דווח.",
+          "correct": false
+        },
+        {
+          "text": "מהירות-65 קשר, חימום מאייד-הפעל, תיחול-סגור, ברז דלק-וודא פתןח, תערובת-עשירה, מצתים-שניהם.",
+          "correct": true
+        },
+        {
+          "text": "מהירות-65 קשר, שדה-בחר, דלק-בדוק כמות, ברז דלק-וודא פתוח, חגור-נעול, רדיו-דווח.",
+          "correct": false
+        },
+        {
+          "text": "כיוון-לשדה הקרוב, מהירות-60 קשר, דלק-בדוק כמות, מצתים-שניהם.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "c172c114",
+      "topic": "פיינל 5",
+      "source": "form 5",
+      "stem": "מהי המהירות המומלצת לגישה בנחיתת ציוף?",
+      "image": null,
+      "options": [
+        {
+          "text": "65 קשר",
+          "correct": false
+        },
+        {
+          "text": "70 קשר",
+          "correct": false
+        },
+        {
+          "text": "55 קשר",
+          "correct": true
+        },
+        {
+          "text": "60 קשר",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "c172c115",
+      "topic": "פיינל 5",
+      "source": "form 5",
+      "stem": "מהן פעולותיך במקרה של אש בהתנעה?",
+      "image": null,
+      "options": [
+        {
+          "text": "ברז דלק-סגור, תערובת-סגור, מצערת-פתח, תיחול-סגור.",
+          "correct": false
+        },
+        {
+          "text": "מתנע-המשך לסובב, סל\"ד-1,700 , מנוע-כבה, מצבר-סגור, מצתים-סגור, ברז דלק-סגור, מטפה-הפעל.",
+          "correct": true
+        },
+        {
+          "text": "בלמים-הפעל, מצערת-סגור, תערובת-סגור, מצתים-סגור, מטפה-הפעל",
+          "correct": false
+        },
+        {
+          "text": "מצערת-פתח, תערובת-סגור, בלמים-הפעל, מטפה-הפעל",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "c172c116",
+      "topic": "פיינל 5",
+      "source": "form 5",
+      "stem": "מהן פעולותיך במקרה של אש באוויר?",
+      "image": null,
+      "options": [
+        {
+          "text": "תערובת-סגור, מצערת-פתח, מצתים-סגור, מהירות-85 קשר, חימום תא-סגור, בצע תהליך נחיתת אונס",
+          "correct": false
+        },
+        {
+          "text": "מהירות-85 קשר, מצתים-סגור, מצבר-סגור, תערובת-סגור, מצערת-פתח",
+          "correct": false
+        },
+        {
+          "text": "מהירות-65 קשר, שדה-בחר, תערובת-סגור, מצערת-פתח, מצתים-סגור.",
+          "correct": false
+        },
+        {
+          "text": "תערובת-סגור, ברז דלק-סגור, מצבר-סגור, חימום תא-סגור, מהירות-100 קשר, בצע תהליך נחיתת אונס",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": "c172c117",
+      "topic": "פיינל 5",
+      "source": "form 5",
+      "stem": "מהן פעולותיך במקרה של אש חשמלית באוויר?",
+      "image": null,
+      "options": [
+        {
+          "text": "מטפה-הפעל, מצבר-סגור, מהירות-85 קשר, מצתים-שניהם.",
+          "correct": false
+        },
+        {
+          "text": "מצבר-פתח, תערובת-פתח, מצתים-שניהם, מטפה-הפעל.",
+          "correct": false
+        },
+        {
+          "text": "מצבר-סגור, מצערת-סגור, תערובת-סגור, מצתים-סגור",
+          "correct": false
+        },
+        {
+          "text": "מצבר-סגור, (למעט מצתים) אוורור תא-סגור, מטפה-הפעל, מתגים חשמלים-הפסק.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": "c172c118",
+      "topic": "פיינל 6",
+      "source": "form 6",
+      "stem": "מהירות תמרון, VA (משקל מירבי) הוא:",
+      "image": null,
+      "options": [
+        {
+          "text": "92 KIAS",
+          "correct": false
+        },
+        {
+          "text": "82 KIAS",
+          "correct": false
+        },
+        {
+          "text": "85 KIAS",
+          "correct": false
+        },
+        {
+          "text": "99 KIAS",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": "c172c119",
+      "topic": "פיינל 6",
+      "source": "form 6",
+      "stem": "המהירות המקסימאלית להורדת מדפים, VFE היא:",
+      "image": null,
+      "options": [
+        {
+          "text": "אין חשיבות למהירות הורדת המדפים",
+          "correct": false
+        },
+        {
+          "text": "10-30 מעלות במהירות של 110 KIAS",
+          "correct": false
+        },
+        {
+          "text": "10-30 מעלות במהירות של 85 KIAS",
+          "correct": false
+        },
+        {
+          "text": "10 מעלות במהירות 110 KIAS, ו-10-30 מעלות במהירות של 85 KIAS",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": "c172c120",
+      "topic": "פיינל 6",
+      "source": "form 6",
+      "stem": "הקשת הירוקה במד המהירות, משתרעת בתחומי המהירות הבאים:",
+      "image": null,
+      "options": [
+        {
+          "text": "44-127 KIAS",
+          "correct": true
+        },
+        {
+          "text": "127-158 KIAS",
+          "correct": false
+        },
+        {
+          "text": "109-127 KIAS",
+          "correct": false
+        },
+        {
+          "text": "33-85 KIAS",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "c172c121",
+      "topic": "פיינל 6",
+      "source": "form 6",
+      "stem": "הקשת הלבנה, במד המהירות, משתרעת בתחומי המהירות הבאים:",
+      "image": null,
+      "options": [
+        {
+          "text": "33-85 KIAS",
+          "correct": true
+        },
+        {
+          "text": "127-158 KIAS",
+          "correct": false
+        },
+        {
+          "text": "40-111 KIAS",
+          "correct": false
+        },
+        {
+          "text": "44-127 KIAS",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "c172c122",
+      "topic": "פיינל 6",
+      "source": "form 6",
+      "stem": "מהי רוח הצד המקסימאלית להמראה ונחיתה?",
+      "image": null,
+      "options": [
+        {
+          "text": "10 קשר",
+          "correct": false
+        },
+        {
+          "text": "12 קשר",
+          "correct": false
+        },
+        {
+          "text": "7 קשר",
+          "correct": false
+        },
+        {
+          "text": "15 קשר",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": "c172c123",
+      "topic": "פיינל 6",
+      "source": "form 6",
+      "stem": "מספר נקודות ניקוז הדלק במערכת הדלק:",
+      "image": null,
+      "options": [
+        {
+          "text": "אחת במנוע",
+          "correct": false
+        },
+        {
+          "text": "אחת במנוע, אחת בגחון המטוס, אחת בכל כנף",
+          "correct": true
+        },
+        {
+          "text": "שתיים מתחת לכנף",
+          "correct": false
+        },
+        {
+          "text": "אחת במנוע ואחת מתחת לכנף ימין",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "c172c124",
+      "topic": "פיינל 6",
+      "source": "form 6",
+      "stem": "מהו המשקל המקסימאלי בחניה (RAMP )",
+      "image": null,
+      "options": [
+        {
+          "text": "2,400 LB",
+          "correct": false
+        },
+        {
+          "text": "2,480 LB",
+          "correct": false
+        },
+        {
+          "text": "2,407 LB",
+          "correct": true
+        },
+        {
+          "text": "2,380 LB",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "c172c125",
+      "topic": "פיינל 6",
+      "source": "form 6",
+      "stem": "מהו במשקל המקסימאלי בתא המטען?",
+      "image": null,
+      "options": [
+        {
+          "text": "120 ק\"ג",
+          "correct": false
+        },
+        {
+          "text": "90 LB",
+          "correct": false
+        },
+        {
+          "text": "120 LB",
+          "correct": true
+        },
+        {
+          "text": "90 ק\"ג",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "c172c126",
+      "topic": "פיינל 6",
+      "source": "form 6",
+      "stem": "מהי כמות הדלק המקסימאלית במטוס סטנדרטי?",
+      "image": null,
+      "options": [
+        {
+          "text": "40 גלון",
+          "correct": false
+        },
+        {
+          "text": "52 גלון",
+          "correct": false
+        },
+        {
+          "text": "60 גלון",
+          "correct": false
+        },
+        {
+          "text": "43 גלון",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": "c172c127",
+      "topic": "פיינל 6",
+      "source": "form 6",
+      "stem": "בחר במשפט הנכון:",
+      "image": null,
+      "options": [
+        {
+          "text": "נפילת מגנטו מקסימאלית-150 סל\"ד, והפרש בין 2 המגנטו - 50 סל\"ד",
+          "correct": false
+        },
+        {
+          "text": "נפילת מגנטו מקסימאלית - 125 סל\"ד, והפרש בין 2 המגנטו - 50 סל\"ד",
+          "correct": true
+        },
+        {
+          "text": "נפילת מגנטו מקסימאלית - 100 סל\"ד, והפרש בין 2 המגנטו - 75 סל\"ד",
+          "correct": false
+        },
+        {
+          "text": "נפילת מגנטו מקסימאלית - 75 סל\"ד, והפרש בין 2 המגנטו 25 סל\"ד",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "c172c128",
+      "topic": "פיינל 6",
+      "source": "form 6",
+      "stem": "מהן הבדיקות לפני נחיתה?",
+      "image": null,
+      "options": [
+        {
+          "text": "בלמים-לחץ, תיחול-סגור, מצבר-פתוח, מצתים-שניהם",
+          "correct": false
+        },
+        {
+          "text": "מושב וחגורות-התאם וסגור, תערובת-עשירה, חימום מאייד-הפעל",
+          "correct": true
+        },
+        {
+          "text": "תערובת-עשירה, בלמים-לחץ, מצתים-שניהם, חימום מאייד-הפעל",
+          "correct": false
+        },
+        {
+          "text": "בלמים-לחץ, תערובת-עשירה, מצתים-שניהם",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "c172c129",
+      "topic": "פיינל 6",
+      "source": "form 6",
+      "stem": "מהו נוהל ההליכה סביב?",
+      "image": null,
+      "options": [
+        {
+          "text": "מצערת-כוח מלא, חימום מאייד-סגור, מדפים ל-20 מעלות, מהירות 55 קשר, מדפים הרם באיטיות",
+          "correct": true
+        },
+        {
+          "text": "מהירות-בין 60 ל-70 קשר, מדפים-הרם ל-0 מעלות, תערובת-עשירה, רגל ימין-דחוף",
+          "correct": false
+        },
+        {
+          "text": "מצערת-כוח מלא, תערובת-עשירה, מדפים-ל-10 מעלות, רגל ימין-דחוף",
+          "correct": false
+        },
+        {
+          "text": "מהירות-65 קשר, אוויר למאייד-סגור, מדפים-ל-20 מעלות, תערובת-עשירה",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "c172c130",
+      "topic": "פיינל 6",
+      "source": "form 6",
+      "stem": "מה לעשות במקרה של כניסה ביודעין לעבר אזור של התקרחות?",
+      "image": null,
+      "options": [
+        {
+          "text": "מותר רק אם זה בתנאי IMC",
+          "correct": false
+        },
+        {
+          "text": "אסור בתכלית האיסור",
+          "correct": true
+        },
+        {
+          "text": "מותר רק עם הטמפרטורה היא מעל 5 מעלות",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "c172c131",
+      "topic": "פיינל 6",
+      "source": "form 6",
+      "stem": "מה עליך לעשות במקרה של לחץ שמן נמוך, כאשר טמפרטורת השמן תקינה?",
+      "image": null,
+      "options": [
+        {
+          "text": "המשך בטיסה כרגיל עד להגעתך לשדה התעופה הקרוב ביותר",
+          "correct": true
+        },
+        {
+          "text": "עליך לבצע נחיתת אונס מיידית",
+          "correct": false
+        },
+        {
+          "text": "חפש שדה נוח לנחיתת אונס",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "c172c132",
+      "topic": "פיינל 6",
+      "source": "form 6",
+      "stem": "איך פועל ווסת לחץ השמן?",
+      "image": null,
+      "options": [
+        {
+          "text": "חשמלי, על ידי בקרת לחץ וטמפרטורת השמן",
+          "correct": false
+        },
+        {
+          "text": "מכאני, על ידי שסתום המשחרר לחץ",
+          "correct": true
+        },
+        {
+          "text": "חשמלי, על ידי בקרת לחץ השמן",
+          "correct": false
+        },
+        {
+          "text": "מכאני, על ידי שסתום המשחרר את עודף השמן",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "c172c133",
+      "topic": "פיינל 6",
+      "source": "form 6",
+      "stem": "כמה ילדים מותר להושיב בתא המטען?",
+      "image": null,
+      "options": [
+        {
+          "text": "ילד אחד השוקל עד 120 ליברות",
+          "correct": false
+        },
+        {
+          "text": "שני ילדים שמשקלם עד 120 ליברות",
+          "correct": false
+        },
+        {
+          "text": "שני ילדים השוקלים עד 120 ליברות, ובתנאי שמותקן כיסא מיוחד עבור ילדים",
+          "correct": true
+        },
+        {
+          "text": "אסור לשים ילדים בתא מטען",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "c172c134",
+      "topic": "פיינל 6",
+      "source": "form 6",
+      "stem": "מהו המתח שיגרום לניתוק האלטרנטור ממערכת החשמל?",
+      "image": null,
+      "options": [
+        {
+          "text": "31.5 וולט",
+          "correct": true
+        },
+        {
+          "text": "33 וולט",
+          "correct": false
+        },
+        {
+          "text": "28 וולט",
+          "correct": false
+        },
+        {
+          "text": "24 וולט",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "c172c135",
+      "topic": "פיינל 6",
+      "source": "form 6",
+      "stem": "מהי מהירות הגישה בנחיתה קצרה?",
+      "image": null,
+      "options": [
+        {
+          "text": "61 קשר",
+          "correct": true
+        },
+        {
+          "text": "75 קשר",
+          "correct": false
+        },
+        {
+          "text": "70 קשר",
+          "correct": false
+        },
+        {
+          "text": "65 קשר",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "c172c136",
+      "topic": "פיינל 6",
+      "source": "form 6",
+      "stem": "מהי המהירות המקסימאלית לטיסה במז\"א נגיף, משקל מקסימאלי?",
+      "image": null,
+      "options": [
+        {
+          "text": "110 קשר",
+          "correct": false
+        },
+        {
+          "text": "127 קשר",
+          "correct": true
+        },
+        {
+          "text": "158 קשר",
+          "correct": false
+        },
+        {
+          "text": "104 קשר",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "c172c137",
+      "topic": "פיינל 6",
+      "source": "form 6",
+      "stem": "במטוס המצוייד במקזז להגה הגובה בלבד, הרגשת בעת טיסה כי חרטום המטוס נוטה כל הזמן ליפול. כדי לתקן תופעה זו - עליך לגרום:",
+      "image": null,
+      "options": [
+        {
+          "text": "להנמיך לגובה נמוך יותר בו תטוס באוויר בעל צפיפות גבוהה יותר וכתוצאה מכך יגדל העילוי הפועל על המטוס ויגרום להרמת האף",
+          "correct": false
+        },
+        {
+          "text": "להרמת לוחון הקיזוז בהגה הגובה",
+          "correct": false
+        },
+        {
+          "text": "להורדת לוחון הקיזוז בהגה הגובה",
+          "correct": true
+        },
+        {
+          "text": "להגדיל את מהירות המטוס",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "c172c138",
+      "topic": "פיינל 6",
+      "source": "form 6",
+      "stem": "מהו סוג הדלק בשימוש?",
+      "image": null,
+      "options": [
+        {
+          "text": "100 LL",
+          "correct": true
+        },
+        {
+          "text": "ירוק 85/90",
+          "correct": false
+        },
+        {
+          "text": "כחול 90/95",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "c172c139",
+      "topic": "פיינל 6",
+      "source": "form 6",
+      "stem": "באמצע טיסה נפתחה הדלת, עליך:",
+      "image": null,
+      "options": [
+        {
+          "text": "להקטין את מהירות הטיסה ל-90 קשר, לסגור את הדלת ולהמשיך בטיסה כרגיל",
+          "correct": false
+        },
+        {
+          "text": "לחזור מיד לנחיתה בשדה התעופה הקרוב ביותר",
+          "correct": false
+        },
+        {
+          "text": "להקטין מהירות ל-75 קשר, לסגור את הדלת ולהמשיך בטיסה כרגיל",
+          "correct": true
+        },
+        {
+          "text": "לבצע נחיתת אונס על פי נהלי נחיתת אונס",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "c172c140",
+      "topic": "פיינל 6",
+      "source": "form 6",
+      "stem": "בטיסת שיוט הבחנת בלחץ שמן נמוך מאוד, טמפרטורת שמן גבוהה מאוד, מהן הפעולות הנדרשות?",
+      "image": null,
+      "options": [
+        {
+          "text": "בחר שדה לנחיתת אונס, ידית תערובת - סגור, ברז דלק - סגור, כל המפסקים החשמליים בתא - OFF , בצע נחיתת אונס לפי הנוהל המתאים",
+          "correct": false
+        },
+        {
+          "text": "הקטן כוח מנוע, בחר שדה לנחיתת אונס, השתמש בכוח מנוע מינימלי אשר יאפשר לך לגעת בנקודה הרצויה.",
+          "correct": true
+        },
+        {
+          "text": "ידית תערובת - סגור, ברז דלק - סגור, מפסק הצתה - OFF , בצע נחיתת אונס על פי נוהל נחיתת אונס",
+          "correct": false
+        },
+        {
+          "text": "ידית תערובת - סגור, בחר שדה לנחיתת אונס, בצלע בסיס התנע מחדש, השתמש בכוח מינימלי אשר יאפשר לך לגעת בנקודה הרצויה",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "c172c141",
+      "topic": "פיינל 6",
+      "source": "form 6",
+      "stem": "השיטה המומלצת לדילול תערובת היא",
+      "image": null,
+      "options": [
+        {
+          "text": "מעל 3,000 רגל, דלל עד לקבלת סל\"ד מירבי, להוריד עד ל-50 מעלות צלסיוז",
+          "correct": false
+        },
+        {
+          "text": "מעל 5,000 רגל, עד 2,400 סל\"ד, ולהמשיך ולהעשיר עד 2,400 סל\"ד",
+          "correct": false
+        },
+        {
+          "text": "מעל 3,000 רגל, לדלל עד לקבלת סל\"ד מירבי, להוריד עד לירידת של 25-50 סל\"ד",
+          "correct": true
+        },
+        {
+          "text": "מעל גובה 5,000 רגל, לדלל עד קבלת סל\"ד מירבי, בהמשך לדלל עד לנפילת סל\"ד של 50",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "c172c142",
+      "topic": "פיינל 6",
+      "source": "form 6",
+      "stem": "אם במיכלי הדלק נשאר פחות מאשר רבע טנק, אסור לבצע:",
+      "image": null,
+      "options": [
+        {
+          "text": "נסיקה מעל 30 שניות",
+          "correct": false
+        },
+        {
+          "text": "טיסה לא מתואמת, בזמן העולה על 30 שניות",
+          "correct": true
+        },
+        {
+          "text": "הזדקרות",
+          "correct": false
+        },
+        {
+          "text": "פניה של 30 מעלות",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "c172c143",
+      "topic": "פיינל 6",
+      "source": "form 6",
+      "stem": "נחתת בשדה שלא נמצא בו סוג הדלק למטוס. במקרה זה תתדלק בסוג דלק:",
+      "image": null,
+      "options": [
+        {
+          "text": "בעל אוקטן נמוך מהדרוש",
+          "correct": false
+        },
+        {
+          "text": ". אוקטן 95 נטול עופרת",
+          "correct": false
+        },
+        {
+          "text": "בעל אוקטן גבוה מהדרוש",
+          "correct": true
+        },
+        {
+          "text": "סוג הדלק אינו חשוב בטיסה קצרה מ-30 דקות",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "c172c144",
+      "topic": "פיינל 6",
+      "source": "form 6",
+      "stem": "ממה מורכבת מערכת ההצתה של המנוע, ואיך המגנטו מופעל, מכאנית או חשמאלית ?",
+      "image": null,
+      "options": [
+        {
+          "text": "אלטרנטור אחד ושני פלגים (בכל צילינדר)",
+          "correct": false
+        },
+        {
+          "text": "שני מגנטו ושני פלגים (בכל צילינדר) והמגנטו מופעל חשמאלית",
+          "correct": false
+        },
+        {
+          "text": "שני מגנטו ושני פלגים (בכל צילינדר)והמגנטו מופעל מכאנית",
+          "correct": true
+        },
+        {
+          "text": "מגנטו אחד ופלג אחד (בכל צילינדר)",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "c172c145",
+      "topic": "פיינל 6",
+      "source": "form 6",
+      "stem": "הקצה הירוק העליון של מד המהירות מצביע על:",
+      "image": null,
+      "options": [
+        {
+          "text": "מהירות מירבית לכל מצבי הטיסה",
+          "correct": false
+        },
+        {
+          "text": "מהירות מירבית לטיסה במזג אוויר נגיף - maximum structural cruising speed",
+          "correct": true
+        },
+        {
+          "text": "מהירות מירבית ללא מדפים",
+          "correct": false
+        },
+        {
+          "text": "מהירות מירבית עם מדפים ב-30 מעלות מטה",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "c172c146",
+      "topic": "פיינל 6",
+      "source": "form 6",
+      "stem": "איזה מהתרגילים הנ\"ל מותר לבצע במטוס מסוג normal category?",
+      "image": null,
+      "options": [
+        {
+          "text": "1,2,3,6",
+          "correct": true
+        },
+        {
+          "text": "2,4,6,8",
+          "correct": false
+        },
+        {
+          "text": "3,5,7,8",
+          "correct": false
+        },
+        {
+          "text": "1,2,5,8",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "c172c147",
+      "topic": "פיינל 6",
+      "source": "form 6",
+      "stem": "לחץ האוויר אותו יש למלא בגלגלים:",
+      "image": null,
+      "options": [
+        {
+          "text": "ראשיים 30 PSI קידמי 21 – 29 PSI",
+          "correct": false
+        },
+        {
+          "text": "ראשיים: 30 PSI קידמי: 28 PSI",
+          "correct": false
+        },
+        {
+          "text": "ראשיים 30 PSI קידמי: 30 PSI",
+          "correct": false
+        },
+        {
+          "text": "ראשיים: 28 PSI קידמי: 34 PSI",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": "c172c148",
+      "topic": "פיינל 6",
+      "source": "form 6",
+      "stem": "אחרי כמה זמן נדמים מנוע עם לחץ השמן איננו עולה אחרי התנעה ?",
+      "image": null,
+      "options": [
+        {
+          "text": "מייד",
+          "correct": false
+        },
+        {
+          "text": "20 שניות",
+          "correct": false
+        },
+        {
+          "text": "10 שניות",
+          "correct": true
+        },
+        {
+          "text": "30 שניות",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "c172c149",
+      "topic": "פיינל 6",
+      "source": "form 6",
+      "stem": "מהו הנוהל המלא ל\"אש במנוע\" בזמן הטיסה?",
+      "image": null,
+      "options": [
+        {
+          "text": "תערובת להדממה 2. ברז דלק - סגור 3. Master Switch - סגור4. מהירות - 75 קשר (אם האש אינה כבית, הגבר את שיעור הגלישה על מנת למצא מהירות שתכבה את התערובת) 5. דיווח בקשר",
+          "correct": true
+        },
+        {
+          "text": "דיווח בקשר 2. תערובת להדממה 3. מהירות - 95 קשר (אם האש אינה כבית, הגבר את שיעור הגלישה על מנת למצא מהירות שתכבה את התערובת) 4. נחיתת אונס - בהתאם למתואר בספר המטוס",
+          "correct": false
+        },
+        {
+          "text": "תערובת להדממה 2. ברז דלק - סגור 3. Master Switch - סגור 4. פתחי איוורור וחימום - סגור (להוציא פתחי איורור בשורש הכנף)5. מהירות - 100 קשר (אם האש אינה כבית, הגבר את שיעור הגלישה על מנת למצא מהירות שתכבה את התערובת) 6. נחיתת אונס - בהתאם למתואר בספר המטוס",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "c172c150",
+      "topic": "פיינל 6",
+      "source": "form 6",
+      "stem": "מהו הנוהל המלא לשריפה חשמלית בתא?",
+      "image": null,
+      "options": [
+        {
+          "text": "מתג ראשי - סגור 2. פתחי איוורור - סגור 3.מטף כיבוי - הפעל",
+          "correct": true
+        },
+        {
+          "text": "מתג ראשי - סגור 2. מסטר סוויץ - סגור 3.פתחי איוורור - סגור 4.מטף כיבוי - הפעל",
+          "correct": false
+        },
+        {
+          "text": "מתג ראשי - סגור 2. מטף כיבוי - הפעל 3.פתחי איוורור - סגור",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "c172c151",
+      "topic": "פיינל 7",
+      "source": "form 7",
+      "stem": "טייס מבצע המראה בקונפיגורציה הבאה: מדפים 10 מעלות, פתיחת מצערת, שחרור מעצורים וטיפוס ב 56 קשרים עד מעבר מכשול. איזו המראה מבצע?",
+      "image": null,
+      "options": [
+        {
+          "text": "מתאים לכל סוגי ההמראה",
+          "correct": false
+        },
+        {
+          "text": "אין המראה כזו",
+          "correct": false
+        },
+        {
+          "text": "המראה  קצרה",
+          "correct": true
+        },
+        {
+          "text": "המראה רגילה",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "c172c152",
+      "topic": "פיינל 7",
+      "source": "form 7",
+      "stem": "בעת התנעה פרצה אש במנוע, מהן הפעלות הנדרשות?",
+      "image": null,
+      "options": [
+        {
+          "text": "המשך התנעה על מנת לינוק את האש ואת שאריות הדלק לתוך הצילינדרים. אם הצלחתה להניע, פתח כוח ל 1700 סל\"ד למשך מספר דקות , דומם מנוע ,בדוק הזנק",
+          "correct": true
+        },
+        {
+          "text": "המשך התנעה על מנת לינוק את האש ואת שאריות הדלק לתוך הצילינדרים. אם הצלחתה להניע, בצע בדיקת מגנטו ובדיקת מקסימום הספק סטטי. אם המנוע עומד במגלות הנך רשאי להמריא",
+          "correct": false
+        },
+        {
+          "text": "הפסק את ההתנעה , הזעק עזרה, סגור ברז דלק, מספק ראשי - חדל , הפעל מטף כיבוי",
+          "correct": false
+        },
+        {
+          "text": "הפסק את ההתנעה , העבר למצב \"OFF\" ,סגור ברז דלק, הזעק עזרה",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "c172c153",
+      "topic": "פיינל 7",
+      "source": "form 7",
+      "stem": "ויסות לחץ השמן במנוע נעשה ע\"י:",
+      "image": null,
+      "options": [
+        {
+          "text": "שסתום עוקף (BYPASS) המורכב אחרי משאבת השמן",
+          "correct": false
+        },
+        {
+          "text": "שסתום פריקת לחץ המורכב לפני המסנן",
+          "correct": false
+        },
+        {
+          "text": "מקרן השמן.",
+          "correct": false
+        },
+        {
+          "text": "שסתום פריקת לחץ המורכב אחרי המסנן.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": "c172c154",
+      "topic": "פיינל 7",
+      "source": "form 7",
+      "stem": "להמראה מומלץ להשתמש במדפים בזוויות דלהלן",
+      "image": null,
+      "options": [
+        {
+          "text": "0  מעלות להמראה קצרה",
+          "correct": false
+        },
+        {
+          "text": "20  מעלות להמראה קצרה",
+          "correct": false
+        },
+        {
+          "text": "10-0  מעלות להמראה רגילה",
+          "correct": true
+        },
+        {
+          "text": "0,10,20 מעלות להמראה רגילה",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "c172c155",
+      "topic": "פיינל 7",
+      "source": "form 7",
+      "stem": "טמפ' ראש צילינדר מרבית מותרת (קו אדום) היא",
+      "image": null,
+      "options": [
+        {
+          "text": "C250",
+          "correct": false
+        },
+        {
+          "text": "500",
+          "correct": false
+        },
+        {
+          "text": "לא נתון בספר",
+          "correct": true
+        },
+        {
+          "text": "F475",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "c172c156",
+      "topic": "פיינל 7",
+      "source": "form 7",
+      "stem": "גילית טעינת יתר (מד טעינה בסוף הטווח), פעולותיך:",
+      "image": null,
+      "options": [
+        {
+          "text": "אלטרנטור ־ סגור, מפסק חשמל ראשי - סגור, בצע נחיתת אונס",
+          "correct": false
+        },
+        {
+          "text": "אלטרנטור - סגור, נתיך אלטרנטור - הוצא, נתק צרכני חשמל מיותרים, חזור לנחיתה",
+          "correct": true
+        },
+        {
+          "text": "מפסק חשמל ראשי - סגור, אלטרנטור - סגור, נתק צרכני חשמל מיותרים, חזור לנחיתה",
+          "correct": false
+        },
+        {
+          "text": "מפסק חשמל ראשי ־ סגור, נתיך אלטרנטור - הוצא, בצע נחיתת אונס",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "c172c157",
+      "topic": "פיינל 7",
+      "source": "form 7",
+      "stem": "טמפרטורת שמן מרבית (קו אדום) היא:",
+      "image": null,
+      "options": [
+        {
+          "text": "245 F",
+          "correct": true
+        },
+        {
+          "text": "212 C",
+          "correct": false
+        },
+        {
+          "text": "180 F",
+          "correct": false
+        },
+        {
+          "text": "100 C",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "c172c158",
+      "topic": "פיינל 7",
+      "source": "form 7",
+      "stem": "במקרה של שריפה (כתוצאה מתקלה חשמלית) באוויר, הפעולות הראשוניות שלך תהיינה:",
+      "image": null,
+      "options": [
+        {
+          "text": "ברז דלק - סגור, ידית תערובת - הדממה, סגור מפסק ראשי וכל שאר המפסקים, הפעל מטפה כיבוי אש, לאחר כיבוי השריפה הפעל מחדש המפסקים",
+          "correct": false
+        },
+        {
+          "text": ". מפסק ראשי - חדל, כל שאר המפסקים - חדל, הפעל מטפה כיבוי אש, אוורר את התא, בצע נוהל נ״א בשדה קרוב מתאים",
+          "correct": false
+        },
+        {
+          "text": "מפסק ראשי - חדל, מפסק avionics - חדל, כל שאר המפסקים (פרט להצתה) - חדל, פתחי אוורור וחימום - סגור, הפעל מטפה כיבוי אש, אוורר את התא",
+          "correct": true
+        },
+        {
+          "text": "מפסק ראשי ושאר המפסקים - חדל, משוך ידית תערובת, סגור מצערת, סגור ברז דלק, נוהל RT, בצע נוהל נ״א",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "c172c159",
+      "topic": "פיינל 7",
+      "source": "form 7",
+      "stem": "דילול התערובת בשיוט ייעשה עד שסל\"ד המנוע יגיע ל:",
+      "image": null,
+      "options": [
+        {
+          "text": "מכסימום, ובהמשך תהיה נפילה של 50-75  סל\"ד",
+          "correct": false
+        },
+        {
+          "text": "מכסימום, ובהמשך תהיה נפילה של 50 סל״ד",
+          "correct": false
+        },
+        {
+          "text": "מכסימום, ובהמשך תהיה נפילה של 10-25 0ל\"ד",
+          "correct": false
+        },
+        {
+          "text": "מכסימום, ובהמשך תהיה נפילה של 25-50 סל״ד",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": "c172c160",
+      "topic": "פיינל 7",
+      "source": "form 7",
+      "stem": "בתחילת ריצת המראה המנוע דמם (Engine Cut) ולפניך מספיק מסלול, ציין את השלבים שעליך לבצע:",
+      "image": null,
+      "options": [
+        {
+          "text": "ידית תערובת - הדממה, מפסק הצתה - חדל, הרם מדפים; מפסק ראשי - חדל, הפעל בלמים",
+          "correct": false
+        },
+        {
+          "text": "מצערת - סרק, הפעל בלמים, הרם מדפים, ידית תערובת - הדממה, מפסק הצתה וראשי – חדל",
+          "correct": true
+        },
+        {
+          "text": "ידית תערובת - הדממה, הרם מדפים, מפסק ראשי - חדל, סגור מצערת, מפסק הצתה – חדל",
+          "correct": false
+        },
+        {
+          "text": "סגור מצערת, הפעל בלמים, מפסק הצתה וראשי - חדל, משוך ידית תערובת",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "c172c161",
+      "topic": "פיינל 7",
+      "source": "form 7",
+      "stem": "המהירות המרבית המותרת להורדת מדפים היא",
+      "image": null,
+      "options": [
+        {
+          "text": "90  קשר",
+          "correct": false
+        },
+        {
+          "text": "87  קשר",
+          "correct": false
+        },
+        {
+          "text": "80  קשר",
+          "correct": false
+        },
+        {
+          "text": "85  קשר",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": "c172c162",
+      "topic": "פיינל 7",
+      "source": "form 7",
+      "stem": "השמן השימושי במנוע הוא",
+      "image": null,
+      "options": [
+        {
+          "text": "40 SAE  מעל (35+) מעלות צלזיוס",
+          "correct": false
+        },
+        {
+          "text": "30 SAE  בתחום (21+) מעלות צלזיוס עד (5-) מעלות צלזיוס",
+          "correct": false
+        },
+        {
+          "text": "50 SAE  מעל (14+) מעלות צלזיוס",
+          "correct": false
+        },
+        {
+          "text": "40 SAE  בתחום (32+) מעלות צלזיוס עד (1-) מעלות צלזיוס",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": "c172c163",
+      "topic": "פיינל 7",
+      "source": "form 7",
+      "stem": "הדלק מהמכל אל משאבת הדלק מגיע",
+      "image": null,
+      "options": [
+        {
+          "text": "ע\"י, כובד עצמי",
+          "correct": true
+        },
+        {
+          "text": "אף תשובה נכונה",
+          "correct": false
+        },
+        {
+          "text": "ע\"י משאבת הגבר",
+          "correct": false
+        },
+        {
+          "text": "עיי׳ יניקת המשאבה",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "c172c164",
+      "topic": "פיינל 7",
+      "source": "form 7",
+      "stem": "הנכון לגבי בדיקת המגנטו הוא",
+      "image": null,
+      "options": [
+        {
+          "text": "נפילת המגנטו המרבית בבדיקת כוח מגנטו היא 125 סל\"ד והפרש מירבי בין שני המגנטו 50 סל\"ד",
+          "correct": true
+        },
+        {
+          "text": "המרבית היא 50 סל\"ד וההפרש המרבי בין שני המגנטו הוא 125 סל\"ד",
+          "correct": false
+        },
+        {
+          "text": "בודקים את המגנטו ב- 1900 סל״ד. ההפרש בנפילת הסל\"ד בין שני המגנטו לא יעלה על 50 סל\"ד",
+          "correct": false
+        },
+        {
+          "text": "בודקים את המגנטו ב- 1700 סל\"ד. ההפרש בנפילת ס0ל\"ד בין שני המגנטו לא יעלה על 125 סל\"ד",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "c172c165",
+      "topic": "פיינל 7",
+      "source": "form 7",
+      "stem": "נסיקה אחרי המראה קצרה מתבצעת בדרך כלל:",
+      "image": null,
+      "options": [
+        {
+          "text": "עם מדפים מעלה, מצערת פתוחה לגמרי, מהירות מסומנת בין 85 ל- 80 קשר בתנאים סטנדרטים",
+          "correct": false
+        },
+        {
+          "text": "עם מדפים 10 מעלות, מצערת 75% הספק, מהירות 78 קשר(90) (IAS מ״״ש); אחר מעבר מכשול הרמת מדפים",
+          "correct": false
+        },
+        {
+          "text": "עם מדפים 10 מעלות, מצערת פתוחה לגמר/ מהירות מסומנת 56 קשר בתנאים סטנדרטיים; עד למעבר המכשול",
+          "correct": true
+        },
+        {
+          "text": ". עם מדפים מעלה, מצערת פתחה לגמרי, מהירות מסומנת 5-10 קשר מעל למהירות שיעור הנסיקה הטובה",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "c172c166",
+      "topic": "פיינל 7",
+      "source": "form 7",
+      "stem": "מהירות הטיסה המרבית המותרת בשיוט מבחינת חוזק מבנה Vno היא (IAS):",
+      "image": null,
+      "options": [
+        {
+          "text": "158  קשר",
+          "correct": false
+        },
+        {
+          "text": "127 קשר",
+          "correct": true
+        },
+        {
+          "text": "123  קשר",
+          "correct": false
+        },
+        {
+          "text": "152  קשר",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "c172c167",
+      "topic": "פיינל 7",
+      "source": "form 7",
+      "stem": "ניקוז הדלק יתבצע:",
+      "image": null,
+      "options": [
+        {
+          "text": "לפני טיסה ראשונה בשעות הבוקר",
+          "correct": false
+        },
+        {
+          "text": "לפני כל טיסה",
+          "correct": false
+        },
+        {
+          "text": "רק לפני טיסה ראשונה בכל יום",
+          "correct": false
+        },
+        {
+          "text": "לפני טיסה ראשונה בכל יום ולאחר כל תדלוק",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": "c172c168",
+      "topic": "פיינל 7",
+      "source": "form 7",
+      "stem": "לנחיתה רגילה מומלץ להשתמש במדפים בזוויות להלן:",
+      "image": null,
+      "options": [
+        {
+          "text": "10,0  מעלות",
+          "correct": false
+        },
+        {
+          "text": "30,20,10,0  מעלות",
+          "correct": true
+        },
+        {
+          "text": "0  מעלות",
+          "correct": false
+        },
+        {
+          "text": "20,10,0  מעלות",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "c172c169",
+      "topic": "פיינל 7",
+      "source": "form 7",
+      "stem": "תוך איזה פרק זמן מירבי צריך לחץ השמן להתייצב בתחום הירוק לאחר ההנעה?",
+      "image": null,
+      "options": [
+        {
+          "text": "אין תשובה נכונה",
+          "correct": false
+        },
+        {
+          "text": "10  שניות",
+          "correct": false
+        },
+        {
+          "text": "60  שניות",
+          "correct": false
+        },
+        {
+          "text": "30  שניות",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": "c172c170",
+      "topic": "פיינל 7",
+      "source": "form 7",
+      "stem": "מהירות הנסיקה המומלצת לאחר המראה קצרה עד מעבר מכשולים, היא:",
+      "image": null,
+      "options": [
+        {
+          "text": "70-80 קשר",
+          "correct": false
+        },
+        {
+          "text": "65-75 קשר",
+          "correct": false
+        },
+        {
+          "text": "60 קשר",
+          "correct": false
+        },
+        {
+          "text": "56  קשר",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": "c172c171",
+      "topic": "פיינל 7",
+      "source": "form 7",
+      "stem": "כמות השמן המינימלי המותרת לטיסה היא",
+      "image": null,
+      "options": [
+        {
+          "text": "4  קוורט",
+          "correct": false
+        },
+        {
+          "text": "7  קוורט",
+          "correct": false
+        },
+        {
+          "text": "5  קוורט",
+          "correct": true
+        },
+        {
+          "text": "6 קוורט",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "c172c172",
+      "topic": "פיינל 7",
+      "source": "form 7",
+      "stem": "כמות הדלק במטוס בעל מכלים סטנדרטיים היא",
+      "image": null,
+      "options": [
+        {
+          "text": "סה\"כ הדלק הניתן לצריכה הוא  22.5 USG",
+          "correct": false
+        },
+        {
+          "text": "סה\"כ הדלק הניתן לצריכה הוא 43 USG",
+          "correct": false
+        },
+        {
+          "text": "סה\"כ הדלק הניתן לתדלוק הוא 43  USG(מכלים יבשים)",
+          "correct": true
+        },
+        {
+          "text": "הדלק הבלתי נצרך הוא 1.75 USG בכל מכל",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "c172c173",
+      "topic": "פיינל 7",
+      "source": "form 7",
+      "stem": "במקרה של נחיתה עם תקר בצמיג:",
+      "image": null,
+      "options": [
+        {
+          "text": "צפה לסחיבה של המטוס, כבה מנוע יפני נחיתה וסגור ברז דלק. נחת על שלושה גלגלים במהירות מינימלית ובלום בחוזקה לאחר הנגיעה",
+          "correct": false
+        },
+        {
+          "text": "צפה לסחיבה של המטוס לכיוון הצמיד עם התקר, הורד מדפים, נחת עם מצב אף גבוה ועם כנף נמוכה לכוון הצמיג הטוב. לאחר נגיעה שמור כיוון בעזרת הגה הניוון והפעלת מעצור על הגלגל התקין",
+          "correct": false
+        },
+        {
+          "text": "מדפים - כנדרש. גישה נחיתה כרגיל. נחת על הגלגל הטוב, לאחר נחיתה שמור מצב בעזרת מאזנות",
+          "correct": true
+        },
+        {
+          "text": "הורד מדפים כרגיל נחת קרוב לשפת המסלול בצד הנגדי לצמיג עם התקר, לאחר הנגיעה בקרקע בלום בחוזקה",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "c172c174",
+      "topic": "פיינל 7",
+      "source": "form 7",
+      "stem": "מהו הסל\"ד המרבי המותר (קו אדום)?",
+      "image": null,
+      "options": [
+        {
+          "text": "2575  סל״ד",
+          "correct": false
+        },
+        {
+          "text": "אין תשובה נכונה",
+          "correct": false
+        },
+        {
+          "text": "2450  סל״ד",
+          "correct": false
+        },
+        {
+          "text": "2700  סל״ד",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": "c172c175",
+      "topic": "פיינל 7",
+      "source": "form 7",
+      "stem": "תהליך מלא לאובדן מנוע מיד אחרי המראה הוא: (מהירות ב-IAS)",
+      "image": null,
+      "options": [
+        {
+          "text": "מהירות גלישה 69 קשר, תערובת - סגור, מצתים - סגור והודע ברדיו",
+          "correct": false
+        },
+        {
+          "text": "מהירות לגלישה - 60 קשר (מדפים למטה), תערובת סגורה, ברז דלק סגור, מצתים סגור, מדפים כנדרש, מפסק ראשי – סגור",
+          "correct": true
+        },
+        {
+          "text": "מהירות 60 קשר, ברז דלק סגור, מדפים - הורד ומפסק ראשי – סגור",
+          "correct": false
+        },
+        {
+          "text": "מהירות גלישה - 65 קשר, מפסק ראשי - סגור, תערובת סגורה, ברז דלק - סגור והורד מדפים",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "c172c176",
+      "topic": "פיינל 7",
+      "source": "form 7",
+      "stem": "המהירות המרבית עם מדפים מעלה בכל תצורה שהיא, כנפיים מאוזנות VNE היא: (KIAS)",
+      "image": null,
+      "options": [
+        {
+          "text": "127  קשר",
+          "correct": false
+        },
+        {
+          "text": "123  קשר",
+          "correct": false
+        },
+        {
+          "text": "152  קשר",
+          "correct": false
+        },
+        {
+          "text": "158  קשר",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": "c172c177",
+      "topic": "פיינל 7",
+      "source": "form 7",
+      "stem": "המשקל המרבי בחנייה הוא (RAMP):",
+      "image": null,
+      "options": [
+        {
+          "text": "1414  ליברות",
+          "correct": false
+        },
+        {
+          "text": "1440  ליברות",
+          "correct": false
+        },
+        {
+          "text": "2400  ליברות",
+          "correct": false
+        },
+        {
+          "text": "2407  ליברות",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": "c172c178",
+      "topic": "פיינל 7",
+      "source": "form 7",
+      "stem": "המתח המסופק ע\"י המצבר הוא:",
+      "image": null,
+      "options": [
+        {
+          "text": "12 וולט DC",
+          "correct": false
+        },
+        {
+          "text": "24 וולט DC",
+          "correct": true
+        },
+        {
+          "text": "28  וולט  DC",
+          "correct": false
+        },
+        {
+          "text": "14 וולט DC",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "c172c179",
+      "topic": "פיינל 7",
+      "source": "form 7",
+      "stem": "מהירות גלישה המיטבית המומלצת, לטווח גלישה מרבי היא:",
+      "image": null,
+      "options": [
+        {
+          "text": "65  קשר  KIAS",
+          "correct": true
+        },
+        {
+          "text": "55  קשר  KIAS",
+          "correct": false
+        },
+        {
+          "text": "70  קשר  KIAS",
+          "correct": false
+        },
+        {
+          "text": "60  קשר  KIAS",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "c172c180",
+      "topic": "פיינל 7",
+      "source": "form 7",
+      "stem": "נחיתה ברוח צד של 90 מעלות הודגמה ברוח שעוצמתה אינה עולה על:",
+      "image": null,
+      "options": [
+        {
+          "text": "18 קשר",
+          "correct": false
+        },
+        {
+          "text": "14 קשר",
+          "correct": false
+        },
+        {
+          "text": "12 קשר",
+          "correct": false
+        },
+        {
+          "text": "15 קשר",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": "c172c181",
+      "topic": "פיינל 7",
+      "source": "form 7",
+      "stem": "המטען המרבי שמותר להעמיס בתא המטען הקדמי, תא מספר 1, הוא:",
+      "image": null,
+      "options": [
+        {
+          "text": "100  לב'",
+          "correct": false
+        },
+        {
+          "text": "82.4  לב'",
+          "correct": false
+        },
+        {
+          "text": "120  לב'",
+          "correct": true
+        },
+        {
+          "text": "50 לב'",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "c172c182",
+      "topic": "פיינל 7",
+      "source": "form 7",
+      "stem": "במקרה של אש במנוע בזמן טיסה, הפעולות הנכונות הן:",
+      "image": null,
+      "options": [
+        {
+          "text": "בחר שדה לנ״א, תערובת סגור, דלק סגור, כל המפסקים החשמליים סגור, חימום ואוורור סגור, בצע נחיתת אונס",
+          "correct": false
+        },
+        {
+          "text": "גלוש ב- 100 KIAS, תערובת להדממה, מפסק ראשי סגור, ברז דלק סגור, מאיד לחם, אוורור וחימום סגור, בצע נחיתת אונס",
+          "correct": false
+        },
+        {
+          "text": "תערובת להדממה, בוחר דלק סגור, מפסק הצתה סגור, מפסק ראשי סגור, בצע החלקה ב- 100 KIAS בניסיון לכבות את האש, בצע נחיתת אונם",
+          "correct": false
+        },
+        {
+          "text": "תערובת להדממה, בוחר דלק סגור, מפסק ראשי סגור, חימום ואוורור סגור׳ שמור 100 KIAS, אם האש לא כבתה הגבר מהירות שתמנע חידוש האש, בצע נחיתת אונס",
+          "correct": true
+        }
+      ]
+    }
+  ]
+}

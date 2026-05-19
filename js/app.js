@@ -1,6 +1,7 @@
-// Top-level app controller. Loads the question bank from window.QUESTIONS,
+// Top-level app controller. Loads tests via window.TESTS + window.TEST_BANKS,
 // renders home / quiz / summary / stats screens, and wires up practice, exam
-// and SRS modes through Modes/Store.
+// and SRS modes through Modes/Store. The active test is the unit of scope —
+// switching tests reloads the bank, reset stats button, and topic chips.
 (function () {
   const $ = (sel) => document.querySelector(sel);
   const screens = {
@@ -13,18 +14,83 @@
     back: $("#back-btn"),
     title: $("#title"),
     progress: $("#progress"),
+    pickerWrap: $("#test-picker-wrap"),
+    pickerBtn: $("#test-picker"),
+    pickerLabel: $("#test-picker-label"),
+    pickerMenu: $("#test-picker-menu"),
   };
 
+  let tests = [];
+  let activeTestId = null;
   let bank = [];
   let topics = [];
   let activeTopics = new Set();
   let runner = null;
   let currentMode = null;
+  let currentScreen = "home";
 
   function show(name) {
+    currentScreen = name;
     Object.entries(screens).forEach(([k, el]) => el && (el.hidden = k !== name));
     topbar.back.hidden = name === "home";
     topbar.progress.hidden = name !== "quiz";
+    // The test picker only makes sense on home and stats. Hide it during a
+    // quiz/summary so you can't accidentally swap tests mid-run.
+    const showPicker = (name === "home" || name === "stats") && tests.length > 1;
+    topbar.pickerWrap.hidden = !showPicker;
+    if (!showPicker) closeTestMenu();
+  }
+
+  // --- Test picker ----------------------------------------------------------
+  function activeTest() {
+    return tests.find(t => t.id === activeTestId) || null;
+  }
+
+  function renderTestPicker() {
+    const t = activeTest();
+    topbar.pickerLabel.textContent = t ? t.title : "";
+    topbar.pickerMenu.innerHTML = "";
+    tests.forEach(test => {
+      const li = document.createElement("li");
+      li.className = "test-picker-item" + (test.id === activeTestId ? " active" : "");
+      li.setAttribute("role", "option");
+      li.setAttribute("aria-selected", test.id === activeTestId ? "true" : "false");
+      li.textContent = test.title;
+      li.addEventListener("click", () => {
+        closeTestMenu();
+        if (test.id !== activeTestId) switchToTest(test.id);
+      });
+      topbar.pickerMenu.appendChild(li);
+    });
+  }
+
+  function openTestMenu() {
+    topbar.pickerMenu.hidden = false;
+    topbar.pickerBtn.setAttribute("aria-expanded", "true");
+  }
+
+  function closeTestMenu() {
+    topbar.pickerMenu.hidden = true;
+    topbar.pickerBtn.setAttribute("aria-expanded", "false");
+  }
+
+  function toggleTestMenu() {
+    if (topbar.pickerMenu.hidden) openTestMenu();
+    else closeTestMenu();
+  }
+
+  function switchToTest(id) {
+    activeTestId = id;
+    Store.setActiveTest(id);
+    Store.setLastTestId(id);
+    bank = Array.isArray(window.TEST_BANKS && window.TEST_BANKS[id]) ? window.TEST_BANKS[id] : [];
+    topics = Array.from(new Set(bank.map(q => q.topic)));
+    activeTopics = new Set();
+    renderTestPicker();
+    // If we were on stats when the user switched, stay on stats so the new
+    // test's numbers appear. Otherwise drop back to home.
+    if (currentScreen === "stats") renderStats();
+    else renderHome();
   }
 
   // --- Home -----------------------------------------------------------------
@@ -32,8 +98,13 @@
     topbar.title.textContent = "תרגול CPL";
     show("home");
     renderTopicChips();
-    $("#bank-meta").textContent =
-      bank.length + " שאלות בבנק • " + topics.length + " נושאים";
+    const meta = $("#bank-meta");
+    if (bank.length === 0) {
+      meta.textContent = "0 שאלות בבנק — עדיין לא הוזנו שאלות";
+    } else {
+      meta.textContent =
+        bank.length + " שאלות בבנק • " + topics.length + " נושאים";
+    }
   }
 
   function renderTopicChips() {
@@ -240,7 +311,9 @@
     const pct = stats.seen === 0 ? 0 : Math.round(100 * stats.correct / stats.seen);
 
     let html = "<h2>התקדמות אישית</h2>";
-    if (stats.seen === 0) {
+    if (bank.length === 0) {
+      html += "<p class='lead'>עדיין לא הוזנו שאלות למבחן זה.</p>";
+    } else if (stats.seen === 0) {
       html += "<p class='lead'>עדיין לא ענית על שאלות. התחל סבב תרגול כדי לבנות סטטיסטיקה.</p>";
     } else {
       html += "<div class='summary-score'>" + stats.correct + " / " + stats.seen + "</div>" +
@@ -275,14 +348,16 @@
     html += "<div class='quiz-actions' style='justify-content:center;flex-wrap:wrap;margin-top:16px'>" +
       "  <button class='primary outline' id='export-btn'>ייצוא סטטיסטיקה</button>" +
       "  <button class='primary outline' id='import-btn'>ייבוא סטטיסטיקה</button>" +
-      "  <button class='primary outline' id='reset-btn'>אפס סטטיסטיקה</button>" +
+      "  <button class='primary outline' id='reset-btn'>אפס סטטיסטיקה למבחן הנוכחי</button>" +
       "  <button class='primary' id='stats-home-btn'>חזרה לתפריט</button>" +
       "</div>" +
       "<input type='file' id='import-file' accept='application/json,.json' hidden>";
 
     card.innerHTML = html;
     $("#reset-btn").addEventListener("click", () => {
-      if (confirm("למחוק את כל היסטוריית התשובות וקופסאות לייטנר?")) {
+      const t = activeTest();
+      const name = t ? t.title : "";
+      if (confirm("למחוק את היסטוריית התשובות וקופסאות לייטנר עבור \"" + name + "\"?")) {
         Store.reset();
         renderStats();
       }
@@ -336,12 +411,15 @@
 
   // --- Boot -----------------------------------------------------------------
   function boot() {
-    bank = Array.isArray(window.QUESTIONS) ? window.QUESTIONS : [];
-    if (bank.length === 0) {
-      $("#bank-meta").textContent = "שגיאה בטעינת השאלות.";
+    tests = Array.isArray(window.TESTS) ? window.TESTS : [];
+    if (tests.length === 0) {
+      $("#bank-meta").textContent = "שגיאה בטעינת רשימת המבחנים.";
       return;
     }
-    topics = Array.from(new Set(bank.map(q => q.topic)));
+
+    // Pick the test to land on: last visited if still valid, else the first.
+    const lastId = Store.getLastTestId();
+    const startId = tests.find(t => t.id === lastId) ? lastId : tests[0].id;
 
     document.querySelectorAll(".mode-card").forEach(btn => {
       if (btn.disabled) return;
@@ -355,7 +433,19 @@
     $("#submit-btn").addEventListener("click", onSubmit);
     $("#next-btn").addEventListener("click", onNext);
 
+    topbar.pickerBtn.addEventListener("click", (e) => {
+      e.stopPropagation();
+      toggleTestMenu();
+    });
+    document.addEventListener("click", (e) => {
+      if (!topbar.pickerWrap.contains(e.target)) closeTestMenu();
+    });
+
     document.addEventListener("keydown", (e) => {
+      if (e.key === "Escape" && !topbar.pickerMenu.hidden) {
+        closeTestMenu();
+        return;
+      }
       if (screens.quiz.hidden) return;
       const n = parseInt(e.key, 10);
       if (!isNaN(n) && n >= 1 && n <= 6) {
@@ -367,7 +457,7 @@
       }
     });
 
-    renderHome();
+    switchToTest(startId);
   }
 
   boot();

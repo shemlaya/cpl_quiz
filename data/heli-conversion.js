@@ -1,6 +1,8 @@
-// Auto-loaded question bank. Generated from data/questions.json by tools/json_to_js.py.
+// Auto-loaded question bank for test 'heli-conversion'.
+// Generated from data/heli-conversion.json by tools/json_to_js.py.
 // Loaded via <script> tag so the app works when opening index.html directly (file://).
-window.QUESTIONS = [
+window.TEST_BANKS = window.TEST_BANKS || {};
+window.TEST_BANKS["heli-conversion"] = [
   {
     "id": "q001",
     "topic": "מכשירי טיסה",
